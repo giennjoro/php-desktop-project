@@ -1,0 +1,1784 @@
+- 19:38:39.218 INFO: --------------------------------------------------------
+- 19:38:39.218 INFO: Started application
+- 19:38:39.218 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 19:38:39.218 INFO: Log level = DEBUG4
+- 19:38:39.218 INFO: Starting Mongoose 3.9c web server
+- 19:38:39.218 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 19:38:39.218 INFO: Index files: index.html,index.php
+- 19:38:39.218 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 19:38:39.218 INFO: CGI pattern: **.php$
+- 19:38:39.218 INFO: Hide files patterns: 
+- 19:38:39.218 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 19:38:39.218 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 19:38:39.218 INFO: Web server url: http://127.0.0.1:55387/
+- 19:38:39.218 INFO: remote_debugging_port = 53027
+- 19:38:39.421 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=53027
+- 19:38:43.015 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=62F9195F4A2A084EF9723534A90779EB --mojo-platform-channel-handle=1580 /prefetch:2
+[0225/193845.268:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 19:38:46.828 DEBUG: App::OnContextInitialized()
+- 19:38:46.828 DEBUG: Window max width/height = 1286/720
+- 19:38:46.828 DEBUG: GetBrowserWindow(): not found, hwnd = 723412
+- 19:38:46.828 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:38:46.828 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:38:46.828 DEBUG: StoreBrowserWindow(): hwnd = 723412
+- 19:38:46.515 DEBUG: ClientHandler::OnAfterCreated()
+- 19:38:46.515 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:38:46.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=C9EAEC18B246747098E5B1ED94BC47CF --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=C9EAEC18B246747098E5B1ED94BC47CF --renderer-client-id=3 --mojo-platform-channel-handle=1832 /prefetch:1
+- 19:38:46.765 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:38:50.204 DEBUG: OnBrowserCreated()
+- 19:38:54.203 INFO: GET 200 /
+- 19:38:54.734 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55387/
+- 19:39:05.843 DEBUG: OnBeforeClose() hwnd=1247808
+- 19:39:05.843 DEBUG: RemoveBrowserWindow(): hwnd = 1247808
+- 19:39:05.843 DEBUG: GetBrowserWindow(): not found, hwnd = 1247808
+- 19:39:05.843 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:39:46.016 INFO: --------------------------------------------------------
+- 19:39:46.016 INFO: Started application
+- 19:39:46.016 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 19:39:46.016 INFO: Log level = DEBUG4
+- 19:39:46.031 INFO: Starting Mongoose 3.9c web server
+- 19:39:46.031 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 19:39:46.031 INFO: Index files: index.html,index.php
+- 19:39:46.031 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 19:39:46.031 INFO: CGI pattern: **.php$
+- 19:39:46.031 INFO: Hide files patterns: 
+- 19:39:46.031 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 19:39:46.031 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 19:39:46.031 INFO: Web server url: http://127.0.0.1:55392/
+- 19:39:46.031 INFO: remote_debugging_port = 59718
+- 19:39:46.031 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=59718
+- 19:39:46.078 DEBUG: App::OnContextInitialized()
+- 19:39:46.078 DEBUG: Window max width/height = 1286/720
+- 19:39:46.078 DEBUG: GetBrowserWindow(): not found, hwnd = 854484
+- 19:39:46.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:39:46.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:39:46.078 DEBUG: StoreBrowserWindow(): hwnd = 854484
+- 19:39:46.000 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=BA4CC14377F214BCD166C16D26A81326 --mojo-platform-channel-handle=1460 /prefetch:2
+- 19:39:46.094 DEBUG: ClientHandler::OnAfterCreated()
+- 19:39:46.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:39:46.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:39:46.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=9124A4893E66509E7409C3059D4BF585 --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=9124A4893E66509E7409C3059D4BF585 --renderer-client-id=3 --mojo-platform-channel-handle=1812 /prefetch:1
+[0225/193946.430:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 19:39:46.047 DEBUG: OnBrowserCreated()
+- 19:39:52.734 INFO: GET 500 /
+- 19:39:52.953 INFO: GET 200 /svg/500.svg
+- 19:39:52.078 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55392/
+- 19:39:56.125 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55392/
+- 19:39:58.328 INFO: GET 500 /
+- 19:39:58.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55392/
+- 19:40:00.406 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55392/
+- 19:40:02.000 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:55392/
+- 19:40:02.000 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55392/
+- 19:40:02.000 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55392/
+- 19:40:02.625 INFO: GET 500 /
+- 19:40:04.219 INFO: GET 500 /
+- 19:40:04.219 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55392/
+- 19:40:06.969 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55392/
+- 19:40:08.187 INFO: GET 500 /
+- 19:40:08.187 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55392/
+- 19:40:10.219 DEBUG: WM_DESTROY
+- 19:40:10.219 DEBUG: RemoveBrowserWindow(): hwnd = 854484
+- 19:40:10.219 INFO: Stopping Mongoose web server
+- 19:40:10.219 DEBUG: Mongoose webserver stopped immediately
+- 19:40:10.219 DEBUG: OnBeforeClose() hwnd=2427438
+- 19:40:10.219 DEBUG: RemoveBrowserWindow(): hwnd = 2427438
+- 19:40:10.219 DEBUG: GetBrowserWindow(): not found, hwnd = 2427438
+- 19:40:10.219 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:40:10.219 DEBUG: Calling CefQuitMessageLoop()
+- 19:40:10.156 DEBUG: OnBrowserDestroyed()
+- 19:40:10.641 INFO: Ended application
+- 19:40:10.641 INFO: --------------------------------------------------------
+- 19:40:21.015 INFO: --------------------------------------------------------
+- 19:40:21.015 INFO: Started application
+- 19:40:21.015 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 19:40:21.015 INFO: Log level = DEBUG4
+- 19:40:21.015 INFO: Starting Mongoose 3.9c web server
+- 19:40:21.015 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 19:40:21.015 INFO: Index files: index.html,index.php
+- 19:40:21.015 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 19:40:21.015 INFO: CGI pattern: **.php$
+- 19:40:21.015 INFO: Hide files patterns: 
+- 19:40:21.015 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 19:40:21.015 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 19:40:21.031 INFO: Web server url: http://127.0.0.1:55409/
+- 19:40:21.031 INFO: remote_debugging_port = 52538
+- 19:40:21.031 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=52538
+- 19:40:21.078 DEBUG: App::OnContextInitialized()
+- 19:40:21.078 DEBUG: Window max width/height = 1286/720
+- 19:40:21.078 DEBUG: GetBrowserWindow(): not found, hwnd = 920020
+- 19:40:21.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:40:21.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:40:21.078 DEBUG: StoreBrowserWindow(): hwnd = 920020
+- 19:40:21.000 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=04EBCB12279708EF80EA13089B0C8442 --mojo-platform-channel-handle=1456 /prefetch:2
+- 19:40:21.093 DEBUG: ClientHandler::OnAfterCreated()
+- 19:40:21.093 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:40:21.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:40:21.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=58BC872329B03C63485BBEC242D3B73F --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=58BC872329B03C63485BBEC242D3B73F --renderer-client-id=3 --mojo-platform-channel-handle=1812 /prefetch:1
+[0225/194021.563:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 19:40:21.046 DEBUG: OnBrowserCreated()
+- 19:40:24.515 INFO: GET 500 /
+- 19:40:24.546 INFO: GET 200 /svg/500.svg
+- 19:40:25.578 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55409/
+- 19:40:41.593 DEBUG: WM_DESTROY
+- 19:40:41.593 DEBUG: RemoveBrowserWindow(): hwnd = 920020
+- 19:40:41.593 INFO: Stopping Mongoose web server
+- 19:40:41.593 DEBUG: Mongoose webserver stopped immediately
+- 19:40:41.593 DEBUG: OnBeforeClose() hwnd=1706534
+- 19:40:41.593 DEBUG: RemoveBrowserWindow(): hwnd = 1706534
+- 19:40:41.593 DEBUG: GetBrowserWindow(): not found, hwnd = 1706534
+- 19:40:41.593 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:40:41.593 DEBUG: Calling CefQuitMessageLoop()
+- 19:40:41.468 DEBUG: OnBrowserDestroyed()
+- 19:40:41.828 INFO: Ended application
+- 19:40:41.828 INFO: --------------------------------------------------------
+- 19:44:12.031 INFO: --------------------------------------------------------
+- 19:44:12.031 INFO: Started application
+- 19:44:12.031 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 19:44:12.031 INFO: Log level = DEBUG4
+- 19:44:12.031 INFO: Starting Mongoose 3.9c web server
+- 19:44:12.031 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 19:44:12.031 INFO: Index files: index.html,index.php
+- 19:44:12.031 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 19:44:12.031 INFO: CGI pattern: **.php$
+- 19:44:12.031 INFO: Hide files patterns: 
+- 19:44:12.031 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 19:44:12.031 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 19:44:12.031 INFO: Web server url: http://127.0.0.1:55443/
+- 19:44:12.031 INFO: remote_debugging_port = 52066
+- 19:44:12.031 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=52066
+- 19:44:13.063 DEBUG: App::OnContextInitialized()
+- 19:44:13.063 DEBUG: Window max width/height = 1286/720
+- 19:44:13.078 DEBUG: GetBrowserWindow(): not found, hwnd = 1116600
+- 19:44:13.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:44:13.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:44:13.078 DEBUG: StoreBrowserWindow(): hwnd = 1116600
+- 19:44:13.000 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=6280C54F1B2210CA854449ECE9267FF1 --mojo-platform-channel-handle=1460 /prefetch:2
+- 19:44:13.094 DEBUG: ClientHandler::OnAfterCreated()
+- 19:44:13.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:44:13.110 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:44:13.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=A21C071298C774AC413F69B4AB2E7DDB --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=A21C071298C774AC413F69B4AB2E7DDB --renderer-client-id=3 --mojo-platform-channel-handle=1796 /prefetch:1
+[0225/194413.082:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 19:44:13.047 DEBUG: OnBrowserCreated()
+- 19:44:16.469 INFO: GET 500 /
+- 19:44:16.516 INFO: GET 200 /svg/500.svg
+- 19:44:16.531 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:44:18.110 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:44:18.938 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:55443/
+- 19:44:18.938 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:44:18.938 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:44:20.344 INFO: GET 500 /
+- 19:44:21.188 INFO: GET 500 /
+- 19:44:21.188 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:44:33.781 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:44:35.000 INFO: GET 500 /
+- 19:44:36.563 INFO: GET 200 /svg/500.svg
+- 19:44:36.844 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:44:46.375 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:44:46.578 INFO: GET 500 /
+- 19:44:46.735 INFO: GET 200 /svg/500.svg
+- 19:44:46.735 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:44:48.703 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:44:48.891 INFO: GET 500 /
+- 19:44:48.047 INFO: GET 200 /svg/500.svg
+- 19:44:48.047 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:44:50.875 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:44:51.078 INFO: GET 500 /
+- 19:44:51.219 INFO: GET 200 /svg/500.svg
+- 19:44:51.235 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:45:52.141 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:45:52.000 INFO: GET 200 /
+- 19:45:52.031 INFO: GET 200 /client/css/fonts.css
+- 19:45:52.031 INFO: GET 200 /client/css/animate.css
+- 19:45:52.031 INFO: GET 200 /client/css/bootstrap.css
+- 19:45:52.047 INFO: GET 200 /client/css/style.css
+- 19:45:52.047 INFO: GET 200 /client/css/responsive.css
+- 19:45:53.063 INFO: GET 200 /client/css/reset.css
+- 19:45:53.078 INFO: GET 200 /client/css/flaticon.css
+- 19:45:53.172 INFO: GET 200 /client/css/owl.carousel.css
+- 19:45:53.297 INFO: GET 200 /client/css/owl.theme.default.css
+- 19:45:53.469 DEBUG: OnContextCreated()
+- 19:45:53.938 INFO: GET 200 /client/js/jquery.menu-aim.js
+- 19:45:53.016 INFO: GET 200 /client/js/jquery.countTo.js
+- 19:45:53.031 INFO: GET 200 /client/js/jquery.inview.min.js
+- 19:45:53.047 INFO: GET 200 /client/js/owl.carousel.js
+- 19:45:54.110 INFO: GET 200 /client/js/custom.js
+- 19:45:54.125 INFO: GET 200 /client/js/bootstrap.js
+- 19:45:54.125 INFO: GET 200 /client/js/jquery_min.js
+- 19:45:54.141 INFO: GET 200 /client/js/modernizr.js
+- 19:45:54.141 INFO: GET 200 /client/js/jquery.magnific-popup.js
+- 19:45:54.203 INFO: GET 200 /client/js/custom_II.js
+- 19:45:54.328 INFO: GET 200 /logo_white.png
+- 19:45:54.344 INFO: GET 200 /client/images/content/client_slider_img.png
+- 19:45:54.344 INFO: GET 200 /client/images/gallery/f1.jpg
+- 19:45:54.344 INFO: GET 200 /client/images/gallery/f2.jpg
+- 19:45:54.360 INFO: GET 200 /client/images/gallery/f3.jpg
+- 19:45:54.375 INFO: GET 200 /client/images/gallery/f4.jpg
+- 19:45:54.375 INFO: GET 200 /client/images/gallery/f5.jpg
+- 19:45:54.375 INFO: GET 200 /client/images/gallery/f6.jpg
+- 19:45:54.453 INFO: GET 200 /client/images/header/loadinganimation.gif
+- 19:45:54.531 INFO: GET 200 /client/images/gallery/f7.jpg
+- 19:45:54.641 INFO: GET 200 /client/images/gallery/camarote_con_balcon.jpg
+- 19:45:54.688 INFO: GET 200 /client/images/gallery/red_velvet.jpg
+- 19:45:54.719 INFO: GET 200 /client/images/gallery/teatro.jpg
+- 19:45:54.750 INFO: GET 200 /client/images/content/news_logo.png
+- 19:45:54.922 INFO: GET 200 /client/images/ship.jpg
+- 19:45:55.172 INFO: GET 404 /client/images/content/client_bg.jpg
+- 19:45:55.328 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 19:45:55.391 INFO: GET 200 /client/fonts/Flaticon.woff
+- 19:45:55.485 INFO: GET 200 /client/images/gallery/2.png
+- 19:45:55.500 INFO: GET 200 /client/images/gallery/1.png
+- 19:45:55.547 INFO: GET 200 /client/images/gallery/3.png
+- 19:45:56.344 INFO: GET 200 /client/images/gallery/swimo.png
+- 19:45:56.391 INFO: GET 200 /client/images/gallery/wine.png
+- 19:45:57.281 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 19:47:42.906 DEBUG: F5 pressed, reloading page
+- 19:47:42.906 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 19:47:43.844 DEBUG: OnContextCreated()
+- 19:47:43.985 INFO: GET 500 /
+- 19:47:44.563 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 20:09:18.141 DEBUG: F5 pressed, reloading page
+- 20:09:18.141 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55443/
+- 20:09:19.344 DEBUG: OnContextCreated()
+- 20:09:19.750 INFO: GET 500 /
+- 20:09:20.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55443/
+- 20:09:36.563 DEBUG: WM_DESTROY
+- 20:09:36.563 DEBUG: RemoveBrowserWindow(): hwnd = 1116600
+- 20:09:36.563 INFO: Stopping Mongoose web server
+- 20:09:36.563 DEBUG: Mongoose webserver stopped immediately
+- 20:09:36.641 DEBUG: OnBeforeClose() hwnd=2493174
+- 20:09:36.641 DEBUG: RemoveBrowserWindow(): hwnd = 2493174
+- 20:09:36.641 DEBUG: GetBrowserWindow(): not found, hwnd = 2493174
+- 20:09:36.641 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:09:36.641 DEBUG: Calling CefQuitMessageLoop()
+- 20:09:36.969 INFO: Ended application
+- 20:09:36.969 INFO: --------------------------------------------------------
+- 20:10:36.016 INFO: --------------------------------------------------------
+- 20:10:36.032 INFO: Started application
+- 20:10:36.032 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 20:10:36.032 INFO: Log level = DEBUG4
+- 20:10:36.032 INFO: Starting Mongoose 3.9c web server
+- 20:10:36.032 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 20:10:36.032 INFO: Index files: index.html,index.php
+- 20:10:36.032 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 20:10:36.032 INFO: CGI pattern: **.php$
+- 20:10:36.032 INFO: Hide files patterns: 
+- 20:10:36.032 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 20:10:36.032 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 20:10:36.032 INFO: Web server url: http://127.0.0.1:55762/
+- 20:10:36.032 INFO: remote_debugging_port = 52105
+- 20:10:36.032 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=52105
+- 20:10:36.078 DEBUG: App::OnContextInitialized()
+- 20:10:36.078 DEBUG: Window max width/height = 1286/720
+- 20:10:36.078 DEBUG: GetBrowserWindow(): not found, hwnd = 3148348
+- 20:10:36.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:10:36.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:10:36.078 DEBUG: StoreBrowserWindow(): hwnd = 3148348
+- 20:10:36.000 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=7043DE9DC0E97A61459917AA14EE5B76 --mojo-platform-channel-handle=1468 /prefetch:2
+- 20:10:36.094 DEBUG: ClientHandler::OnAfterCreated()
+- 20:10:36.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:10:36.110 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:10:36.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=CA9DF3BE3494EEAC1A77E43389E51FA3 --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=CA9DF3BE3494EEAC1A77E43389E51FA3 --renderer-client-id=3 --mojo-platform-channel-handle=1808 /prefetch:1
+[0225/201036.532:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 20:10:36.047 DEBUG: OnBrowserCreated()
+- 20:10:38.641 INFO: GET 500 /
+- 20:10:38.750 DEBUG: OnContextCreated()
+- 20:10:38.453 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55762/
+- 20:11:20.813 DEBUG: F5 pressed, reloading page
+- 20:11:20.813 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55762/
+- 20:11:20.875 DEBUG: OnContextCreated()
+- 20:11:20.000 INFO: GET 500 /
+- 20:11:20.500 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55762/
+- 20:11:41.735 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55762/
+- 20:11:41.782 DEBUG: OnContextCreated()
+- 20:11:41.922 INFO: GET 500 /
+- 20:11:41.375 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55762/
+- 20:11:44.000 DEBUG: WM_DESTROY
+- 20:11:44.000 DEBUG: RemoveBrowserWindow(): hwnd = 3148348
+- 20:11:44.000 INFO: Stopping Mongoose web server
+- 20:11:44.000 DEBUG: Mongoose webserver stopped immediately
+- 20:11:44.000 DEBUG: OnBeforeClose() hwnd=1641026
+- 20:11:44.000 DEBUG: RemoveBrowserWindow(): hwnd = 1641026
+- 20:11:44.000 DEBUG: GetBrowserWindow(): not found, hwnd = 1641026
+- 20:11:44.000 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:11:44.000 DEBUG: Calling CefQuitMessageLoop()
+- 20:11:44.157 INFO: Ended application
+- 20:11:44.157 INFO: --------------------------------------------------------
+- 20:11:54.016 INFO: --------------------------------------------------------
+- 20:11:54.016 INFO: Started application
+- 20:11:54.016 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 20:11:54.016 INFO: Log level = DEBUG4
+- 20:11:54.016 INFO: Starting Mongoose 3.9c web server
+- 20:11:54.016 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 20:11:54.016 INFO: Index files: index.html,index.php
+- 20:11:54.016 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 20:11:54.016 INFO: CGI pattern: **.php$
+- 20:11:54.016 INFO: Hide files patterns: 
+- 20:11:54.016 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 20:11:54.016 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 20:11:54.016 INFO: Web server url: http://127.0.0.1:55767/
+- 20:11:54.016 INFO: remote_debugging_port = 62529
+- 20:11:54.016 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=62529
+- 20:11:54.063 DEBUG: App::OnContextInitialized()
+- 20:11:54.063 DEBUG: Window max width/height = 1286/720
+- 20:11:54.063 DEBUG: GetBrowserWindow(): not found, hwnd = 2033958
+- 20:11:54.063 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:11:54.063 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:11:54.063 DEBUG: StoreBrowserWindow(): hwnd = 2033958
+- 20:11:54.078 DEBUG: ClientHandler::OnAfterCreated()
+- 20:11:54.078 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:11:54.000 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=E6221BE717EF8128A64ECC35E2E80DA9 --mojo-platform-channel-handle=1464 /prefetch:2
+- 20:11:54.094 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:11:54.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=041D882D1B6AB7D4530000BC20FD927D --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=041D882D1B6AB7D4530000BC20FD927D --renderer-client-id=3 --mojo-platform-channel-handle=1800 /prefetch:1
+[0225/201154.155:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 20:11:54.031 DEBUG: OnBrowserCreated()
+- 20:11:55.391 INFO: GET 500 /
+- 20:11:55.328 DEBUG: OnContextCreated()
+- 20:11:56.985 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55767/
+- 20:12:43.985 DEBUG: F5 pressed, reloading page
+- 20:12:43.985 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55767/
+- 20:12:43.047 DEBUG: OnContextCreated()
+- 20:12:43.172 INFO: GET 500 /
+- 20:12:43.657 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55767/
+- 20:12:48.641 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55767/
+- 20:12:48.703 DEBUG: OnContextCreated()
+- 20:12:48.828 INFO: GET 500 /
+- 20:12:49.313 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55767/
+- 20:16:28.875 DEBUG: WM_DESTROY
+- 20:16:28.875 DEBUG: RemoveBrowserWindow(): hwnd = 2033958
+- 20:16:28.875 INFO: Stopping Mongoose web server
+- 20:16:28.875 DEBUG: Mongoose webserver stopped immediately
+- 20:16:28.875 DEBUG: OnBeforeClose() hwnd=1640860
+- 20:16:28.875 DEBUG: RemoveBrowserWindow(): hwnd = 1640860
+- 20:16:28.875 DEBUG: GetBrowserWindow(): not found, hwnd = 1640860
+- 20:16:28.875 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:16:28.875 DEBUG: Calling CefQuitMessageLoop()
+- 20:16:28.922 INFO: Ended application
+- 20:16:28.922 INFO: --------------------------------------------------------
+- 20:33:08.031 INFO: --------------------------------------------------------
+- 20:33:08.031 INFO: Started application
+- 20:33:08.031 INFO: Logging to: E:\kelmas ventures php desktop\kelmas ventures pc\debug.log
+- 20:33:08.031 INFO: Log level = DEBUG4
+- 20:33:08.031 INFO: Starting Mongoose 3.9c web server
+- 20:33:08.031 INFO: WWW directory: E:\kelmas ventures php desktop\kelmas ventures pc\www\public
+- 20:33:08.031 INFO: Index files: index.html,index.php
+- 20:33:08.031 INFO: CGI interpreter: E:\kelmas ventures php desktop\kelmas ventures pc\php\php-cgi.exe
+- 20:33:08.031 INFO: CGI pattern: **.php$
+- 20:33:08.031 INFO: Hide files patterns: 
+- 20:33:08.031 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 20:33:08.031 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 20:33:08.031 INFO: Web server url: http://127.0.0.1:55898/
+- 20:33:08.031 INFO: remote_debugging_port = 54147
+- 20:33:08.031 DEBUG: Command line string for the browser process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --remote-debugging-port=54147
+- 20:33:08.078 DEBUG: App::OnContextInitialized()
+- 20:33:08.078 DEBUG: Window max width/height = 1286/720
+- 20:33:08.078 DEBUG: GetBrowserWindow(): not found, hwnd = 4852912
+- 20:33:08.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:33:08.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:33:08.078 DEBUG: StoreBrowserWindow(): hwnd = 4852912
+- 20:33:08.109 DEBUG: ClientHandler::OnAfterCreated()
+- 20:33:08.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:33:08.000 DEBUG: Command line string for the gpu-process process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --service-request-channel-token=B48A811450A01EB36C817324E1F7A21D --mojo-platform-channel-handle=1472 /prefetch:2
+- 20:33:08.109 DEBUG: OnLoadingStateChange: loading=1, url=
+[0225/203309.126:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 20:33:09.000 DEBUG: Command line string for the renderer process: "E:\kelmas ventures php desktop\kelmas ventures pc\kelmas.exe" --type=renderer --no-sandbox --primordial-pipe-token=847556B7B97F4B1286F84FFB37279EEB --lang=en-US --lang=en-US --log-file="E:\kelmas ventures php desktop\kelmas ventures pc\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=847556B7B97F4B1286F84FFB37279EEB --renderer-client-id=3 --mojo-platform-channel-handle=1816 /prefetch:1
+- 20:33:09.031 DEBUG: OnBrowserCreated()
+- 20:33:10.094 INFO: GET 200 /
+- 20:33:10.094 INFO: GET 200 /client/css/animate.css
+- 20:33:10.094 INFO: GET 200 /client/css/fonts.css
+- 20:33:10.094 INFO: GET 200 /client/css/bootstrap.css
+- 20:33:10.094 INFO: GET 200 /client/css/owl.carousel.css
+- 20:33:10.094 INFO: GET 200 /client/css/owl.theme.default.css
+- 20:33:10.766 DEBUG: OnContextCreated()
+- 20:33:10.140 INFO: GET 200 /client/css/reset.css
+- 20:33:11.375 INFO: GET 200 /client/css/responsive.css
+- 20:33:11.375 INFO: GET 200 /client/css/style.css
+- 20:33:11.375 INFO: GET 200 /client/css/flaticon.css
+- 20:33:11.672 INFO: GET 200 /client/js/jquery_min.js
+- 20:33:11.672 INFO: GET 200 /client/js/jquery.countTo.js
+- 20:33:11.672 INFO: GET 200 /client/js/bootstrap.js
+- 20:33:11.672 INFO: GET 200 /client/js/jquery.inview.min.js
+- 20:33:11.672 INFO: GET 200 /client/js/jquery.menu-aim.js
+- 20:33:11.672 INFO: GET 200 /client/js/jquery.magnific-popup.js
+- 20:33:11.937 INFO: GET 200 /client/js/owl.carousel.js
+- 20:33:11.094 INFO: GET 200 /client/js/custom_II.js
+- 20:33:11.094 INFO: GET 200 /logo_white.png
+- 20:33:11.094 INFO: GET 200 /client/js/custom.js
+- 20:33:11.094 INFO: GET 200 /client/js/modernizr.js
+- 20:33:11.094 INFO: GET 200 /client/images/header/loadinganimation.gif
+- 20:33:12.359 INFO: GET 200 /client/images/job.png
+- 20:33:12.672 INFO: GET 200 /client/images/gallery/f1.jpg
+- 20:33:12.687 INFO: GET 200 /client/images/gallery/f2.jpg
+- 20:33:12.687 INFO: GET 200 /client/images/gallery/f3.jpg
+- 20:33:12.672 INFO: GET 200 /client/images/content/client_slider_img.png
+- 20:33:12.687 INFO: GET 200 /client/images/gallery/f4.jpg
+- 20:33:12.703 INFO: GET 200 /client/images/gallery/f5.jpg
+- 20:33:12.703 INFO: GET 200 /client/images/gallery/f6.jpg
+- 20:33:12.719 INFO: GET 200 /client/images/gallery/camarote_con_balcon.jpg
+- 20:33:12.719 INFO: GET 200 /client/images/gallery/f7.jpg
+- 20:33:12.719 INFO: GET 200 /client/images/gallery/red_velvet.jpg
+- 20:33:12.734 INFO: GET 200 /client/images/gallery/teatro.jpg
+- 20:33:12.750 INFO: GET 200 /client/images/content/news_logo.png
+- 20:33:12.750 INFO: GET 200 /client/images/ship.jpg
+- 20:33:14.422 INFO: GET 404 /client/images/content/client_bg.jpg
+- 20:33:14.422 INFO: GET 200 /client/fonts/Flaticon.woff
+- 20:33:14.640 INFO: GET 200 /client/images/gallery/1.png
+- 20:33:14.750 INFO: GET 200 /client/images/gallery/3.png
+- 20:33:14.797 INFO: GET 200 /client/images/gallery/2.png
+- 20:33:15.344 INFO: GET 200 /client/images/gallery/swimo.png
+- 20:33:15.578 INFO: GET 200 /client/images/gallery/wine.png
+- 20:33:18.015 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 20:33:18.015 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/
+- 20:35:50.328 DEBUG: F5 pressed, reloading page
+- 20:35:50.328 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/
+- 20:35:50.703 DEBUG: OnContextCreated()
+- 20:35:50.047 INFO: GET 200 /client/css/animate.css
+- 20:35:50.047 INFO: GET 200 /client/css/owl.carousel.css
+- 20:35:50.047 INFO: GET 200 /client/css/reset.css
+- 20:35:50.047 INFO: GET 200 /client/css/bootstrap.css
+- 20:35:50.047 INFO: GET 200 /client/css/fonts.css
+- 20:35:50.062 INFO: GET 200 /client/css/owl.theme.default.css
+- 20:35:50.062 INFO: GET 200 /client/css/flaticon.css
+- 20:35:50.062 INFO: GET 200 /client/css/responsive.css
+- 20:35:50.062 INFO: GET 200 /client/css/style.css
+- 20:35:50.062 INFO: GET 200 /
+- 20:35:51.750 INFO: GET 200 /client/js/jquery_min.js
+- 20:35:51.812 INFO: GET 200 /client/js/bootstrap.js
+- 20:35:51.844 INFO: GET 200 /client/js/jquery.menu-aim.js
+- 20:35:51.844 INFO: GET 200 /client/js/jquery.countTo.js
+- 20:35:51.844 INFO: GET 200 /client/js/jquery.inview.min.js
+- 20:35:51.844 INFO: GET 200 /client/js/jquery.magnific-popup.js
+- 20:35:51.844 INFO: GET 200 /client/js/owl.carousel.js
+- 20:35:51.875 INFO: GET 200 /client/js/modernizr.js
+- 20:35:51.875 INFO: GET 200 /client/js/custom_II.js
+- 20:35:51.875 INFO: GET 200 /client/js/custom.js
+- 20:35:51.890 INFO: GET 200 /client/images/header/loadinganimation.gif
+- 20:35:51.906 INFO: GET 200 /client/fonts/Flaticon.woff
+- 20:35:51.906 INFO: GET 200 /logo_white.png
+- 20:35:51.922 INFO: GET 200 /client/images/job.png
+- 20:35:51.937 INFO: GET 200 /client/images/ship.jpg
+- 20:35:51.937 INFO: GET 200 /client/images/content/client_slider_img.png
+- 20:35:51.953 INFO: GET 200 /client/images/gallery/f1.jpg
+- 20:35:51.953 INFO: GET 200 /client/images/gallery/f2.jpg
+- 20:35:51.953 INFO: GET 200 /client/images/gallery/f3.jpg
+- 20:35:51.953 INFO: GET 200 /client/images/gallery/f4.jpg
+- 20:35:51.953 INFO: GET 200 /client/images/gallery/f5.jpg
+- 20:35:51.953 INFO: GET 200 /client/images/gallery/f6.jpg
+- 20:35:51.969 INFO: GET 200 /client/images/gallery/camarote_con_balcon.jpg
+- 20:35:51.984 INFO: GET 200 /client/images/gallery/f7.jpg
+- 20:35:51.015 INFO: GET 200 /client/images/gallery/red_velvet.jpg
+- 20:35:51.015 INFO: GET 200 /client/images/gallery/teatro.jpg
+- 20:35:51.047 INFO: GET 200 /client/images/content/news_logo.png
+- 20:35:52.250 INFO: GET 200 /client/images/gallery/2.png
+- 20:35:52.250 INFO: GET 200 /client/images/gallery/1.png
+- 20:35:52.250 INFO: GET 200 /client/images/gallery/3.png
+- 20:35:52.406 INFO: GET 200 /client/images/gallery/swimo.png
+- 20:35:52.453 INFO: GET 200 /client/images/gallery/wine.png
+- 20:35:52.531 INFO: GET 404 /client/images/content/client_bg.jpg
+- 20:35:52.578 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 20:35:53.640 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/
+- 21:32:31.562 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/
+- 21:32:33.203 DEBUG: OnContextCreated()
+- 21:32:33.594 INFO: GET 200 /client/css/responsive2.css
+- 21:32:33.594 INFO: GET 200 /client/css/style_II.css
+- 21:32:33.640 INFO: GET 200 /register
+- 21:32:33.656 INFO: GET 200 /logo_black.png
+- 21:32:34.219 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 21:32:34.219 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 21:32:34.906 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/register
+- 21:41:42.094 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/register
+- 21:41:44.437 INFO: POST 302 /register
+- 21:41:44.656 INFO: GET 302 /home
+- 21:41:44.609 DEBUG: OnContextCreated()
+- 21:41:44.969 INFO: GET 200 /login
+- 21:41:45.219 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 21:41:45.219 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 21:41:45.281 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 21:42:11.859 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 21:42:11.078 INFO: POST 302 /login
+- 21:42:12.922 DEBUG: OnContextCreated()
+- 21:42:12.265 INFO: GET 200 /login
+- 21:42:12.625 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 21:42:12.640 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 21:42:12.640 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 21:47:11.797 DEBUG: ClientHandler::OnBeforePopup()
+- 21:47:11.797 INFO: Setting default size for a popup window 800/600
+- 21:47:11.797 DEBUG: Window max width/height = 1286/720
+- 21:47:11.875 DEBUG: ClientHandler::OnAfterCreated()
+- 21:47:11.875 DEBUG: GetBrowserWindow(): not found, hwnd = 1772100
+- 21:47:11.875 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 21:47:11.875 DEBUG: StoreBrowserWindow(): hwnd = 1772100
+- 21:47:11.875 DEBUG: Centering popup window relative to its parent
+- 21:47:11.625 DEBUG: OnBrowserCreated()
+- 21:47:11.953 DEBUG: OnLoadingStateChange: loading=1, url=
+- 21:47:12.203 DEBUG: OnLoadError, errorCode=-105, failedUrl=http://taskinstitute.ac.ke/
+- 21:47:12.203 ERROR: Failed to load URL: http://taskinstitute.ac.ke/
+- 21:47:12.203 DEBUG: OnLoadingStateChange: loading=0, url=data:text/html,chromewebdata
+- 21:47:12.219 DEBUG: OnLoadingStateChange: loading=1, url=data:text/html,chromewebdata
+- 21:47:12.234 DEBUG: OnLoadingStateChange: loading=0, url=http://taskinstitute.ac.ke/
+- 21:47:13.390 DEBUG: OnBeforeClose() hwnd=1772100
+- 21:47:13.390 DEBUG: RemoveBrowserWindow(): hwnd = 1772100
+- 21:47:13.297 DEBUG: OnBrowserDestroyed()
+- 21:47:18.890 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 21:47:18.734 DEBUG: OnContextCreated()
+- 21:47:18.062 INFO: GET 200 /login
+- 21:47:19.406 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 21:47:19.422 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 21:47:19.422 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 21:47:21.437 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 21:47:21.328 DEBUG: OnContextCreated()
+- 21:47:21.687 INFO: GET 200 /register
+- 21:47:21.969 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 21:47:21.969 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 21:47:21.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/register
+- 21:48:54.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/register
+- 21:48:54.453 INFO: GET 200 /register
+- 21:48:54.156 DEBUG: OnContextCreated()
+- 21:48:54.859 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 21:48:54.906 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 21:48:54.953 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/register
+- 22:02:02.906 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/register
+- 22:02:02.766 DEBUG: OnContextCreated()
+- 22:02:02.094 INFO: GET 200 /register
+- 22:02:03.328 INFO: GET 200 /client/css/fonts.css
+- 22:02:03.328 INFO: GET 200 /client/css/owl.theme.default.css
+- 22:02:03.328 INFO: GET 200 /client/css/owl.carousel.css
+- 22:02:03.328 INFO: GET 200 /client/css/animate.css
+- 22:02:03.328 INFO: GET 200 /client/css/reset.css
+- 22:02:03.344 INFO: GET 200 /client/css/bootstrap.css
+- 22:02:03.344 INFO: GET 200 /client/css/flaticon.css
+- 22:02:03.359 INFO: GET 200 /client/css/responsive2.css
+- 22:02:03.359 INFO: GET 200 /client/css/style_II.css
+- 22:02:04.297 INFO: GET 200 /client/js/jquery.menu-aim.js
+- 22:02:04.297 INFO: GET 200 /client/js/bootstrap.js
+- 22:02:04.297 INFO: GET 200 /client/js/jquery.inview.min.js
+- 22:02:04.297 INFO: GET 200 /client/js/jquery_min.js
+- 22:02:04.297 INFO: GET 200 /client/js/jquery.magnific-popup.js
+- 22:02:04.297 INFO: GET 200 /client/js/jquery.countTo.js
+- 22:02:04.547 INFO: GET 200 /client/js/owl.carousel.js
+- 22:02:04.578 INFO: GET 200 /client/js/modernizr.js
+- 22:02:04.578 INFO: GET 200 /client/js/custom_II.js
+- 22:02:04.578 INFO: GET 200 /client/images/header/loadinganimation.gif
+- 22:02:04.578 INFO: GET 200 /logo_black.png
+- 22:02:04.609 INFO: GET 200 /client/images/content/news_logo.png
+- 22:02:04.797 INFO: GET 200 /logo_white.png
+- 22:02:04.797 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 22:02:04.015 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 22:02:05.500 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/register
+- 22:02:11.937 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/register
+- 22:02:11.828 DEBUG: OnContextCreated()
+- 22:02:11.156 INFO: GET 200 /login
+- 22:02:12.500 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 22:02:12.515 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 22:02:12.515 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 22:02:24.344 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 22:02:24.515 INFO: POST 302 /login
+- 22:02:24.344 DEBUG: OnContextCreated()
+- 22:02:24.687 INFO: GET 200 /login
+- 22:02:24.047 INFO: GET 404 /client/images/content/pricing_tittle_bg.jpg
+- 22:02:24.047 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 22:02:24.047 INFO: GET 404 /client/images/content/footer_bg.jpg
+- 22:02:31.109 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 22:02:32.109 DEBUG: OnContextCreated()
+- 22:02:32.437 INFO: GET 200 /jobs
+- 22:02:32.703 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/jobs
+- 22:02:32.703 INFO: GET 404 /client/images/content/listing_bg.jpg
+- 22:02:36.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/jobs
+- 22:02:36.625 INFO: GET 302 /apply/7
+- 22:02:36.469 DEBUG: OnContextCreated()
+- 22:02:36.797 INFO: GET 200 /login
+- 22:02:36.000 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 22:03:01.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 22:03:01.422 INFO: POST 302 /login
+- 22:03:01.266 DEBUG: OnContextCreated()
+- 22:03:01.594 INFO: GET 200 /login
+- 22:03:01.812 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/login
+- 22:03:05.625 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55898/login
+- 22:03:05.500 DEBUG: OnContextCreated()
+- 22:03:05.828 INFO: GET 200 /register
+- 22:03:05.000 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55898/register
+- 22:14:55.984 DEBUG: OnBeforeClose() hwnd=592498
+- 22:14:55.984 DEBUG: RemoveBrowserWindow(): hwnd = 592498
+- 22:14:55.984 DEBUG: GetBrowserWindow(): not found, hwnd = 592498
+- 22:14:55.984 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:04:49.328 INFO: --------------------------------------------------------
+- 23:04:49.359 INFO: Started application
+- 23:04:49.359 INFO: Logging to: E:\portfolio windows\debug.log
+- 23:04:49.359 INFO: Log level = DEBUG4
+- 23:04:49.359 INFO: Starting Mongoose 3.9c web server
+- 23:04:49.359 INFO: WWW directory: E:\portfolio windows\www\public
+- 23:04:49.359 INFO: Index files: index.html,index.php
+- 23:04:49.359 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 23:04:49.359 INFO: CGI pattern: **.php$
+- 23:04:49.359 INFO: Hide files patterns: 
+- 23:04:49.359 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 23:04:49.359 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:04:49.359 INFO: Web server url: http://127.0.0.1:57025/
+- 23:04:49.375 INFO: remote_debugging_port = 54616
+- 23:04:50.562 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=54616
+- 23:04:54.031 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=1B412F1A2650E4ADD92083C288AAD067 --mojo-platform-channel-handle=1580 /prefetch:2
+[0225/230458.402:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:04:58.187 DEBUG: App::OnContextInitialized()
+- 23:04:58.187 DEBUG: Window max width/height = 1286/720
+- 23:04:58.187 DEBUG: GetBrowserWindow(): not found, hwnd = 1509940
+- 23:04:58.187 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:04:58.187 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:04:58.187 DEBUG: StoreBrowserWindow(): hwnd = 1509940
+- 23:04:59.140 DEBUG: ClientHandler::OnAfterCreated()
+- 23:04:59.140 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:04:59.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=9EEF71C726E4D75A6CAC77D98CF0364B --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=9EEF71C726E4D75A6CAC77D98CF0364B --renderer-client-id=3 --mojo-platform-channel-handle=1816 /prefetch:1
+- 23:05:00.656 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:05:04.562 DEBUG: OnBrowserCreated()
+- 23:05:11.578 INFO: GET 200 /
+- 23:05:11.984 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 23:05:11.000 INFO: GET 200 /css/bootstrap.min.css
+- 23:05:11.984 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 23:05:11.000 INFO: GET 200 /css/font-awesome.min.css
+- 23:05:11.000 INFO: GET 200 /css/style.css
+- 23:05:11.015 INFO: GET 200 /css/custom.css
+- 23:05:11.015 INFO: GET 200 /css/responsive.css
+- 23:05:11.468 INFO: GET 404 /plugins/switcher/switcher.css
+- 23:05:11.468 INFO: GET 404 /css/colors/theme-1.css
+- 23:05:13.171 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 23:05:13.281 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 23:05:13.328 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 23:05:13.328 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 23:05:13.437 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 23:05:13.500 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 23:05:13.546 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 23:05:14.765 INFO: GET 404 /plugins/switcher/switcher.js
+- 23:05:14.828 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 23:05:14.828 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 23:05:14.843 INFO: GET 200 /js/menu.min.js
+- 23:05:14.843 INFO: GET 200 /js/scripts.js
+- 23:05:14.859 INFO: GET 200 /js/custom.js
+- 23:05:14.562 DEBUG: OnContextCreated()
+- 23:05:15.718 INFO: GET 200 /img/logo.png
+- 23:05:15.718 INFO: GET 200 /img/icons/download.svg
+- 23:05:15.718 INFO: GET 200 /img/icons/support.svg
+- 23:05:15.718 INFO: GET 200 /img/icons/setup.svg
+- 23:05:15.718 INFO: GET 200 /img/number-one.png
+- 23:05:15.718 INFO: GET 200 /img/icons/earth.svg
+- 23:05:15.859 INFO: GET 200 /img/icons/phone.svg
+- 23:05:15.859 INFO: GET 200 /img/icons/tv.svg
+- 23:05:15.859 INFO: GET 200 /img/icons/server.svg
+- 23:05:15.078 INFO: GET 200 /img/icons/right-arrow.svg
+- 23:05:15.078 INFO: GET 200 /img/icons/left-arrow.svg
+- 23:05:16.703 INFO: GET 200 /img/icons/loading.png
+- 23:05:16.937 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 23:05:18.171 INFO: GET 404 /plugins/switcher/switcher.js
+[0225/230519.250:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+- 23:05:19.031 INFO: GET 404 /img/earth.jpg
+- 23:05:19.031 INFO: GET 404 /img/rocket.jpg
+[0225/230519.478:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+[0225/230520.087:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 23:05:20.187 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/
+- 23:05:26.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/
+- 23:05:26.531 INFO: GET 200 /contact
+- 23:05:26.172 DEBUG: OnContextCreated()
+- 23:05:27.796 INFO: GET 404 /plugins/switcher/switcher.css
+- 23:05:27.796 INFO: GET 200 /img/24seven-Developers-cover.jpg
+- 23:05:27.812 INFO: GET 404 /css/colors/theme-1.css
+- 23:05:27.015 INFO: GET 404 /plugins/switcher/switcher.js
+[0225/230527.618:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+[0225/230527.714:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+- 23:05:27.406 INFO: GET 404 /img/hills.jpg
+[0225/230528.259:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 23:05:28.859 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/contact
+- 23:05:34.859 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/contact
+- 23:05:34.703 DEBUG: OnContextCreated()
+- 23:05:34.062 INFO: GET 200 /
+- 23:05:34.500 INFO: GET 404 /plugins/switcher/switcher.css
+- 23:05:34.500 INFO: GET 404 /css/colors/theme-1.css
+[0225/230535.695:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 23:05:41.515 INFO: GET 404 /plugins/switcher/switcher.js
+- 23:05:41.546 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/
+[0225/230542.068:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+[0225/230542.120:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+- 23:05:43.734 INFO: GET 404 /img/rocket.jpg
+- 23:05:43.734 INFO: GET 404 /img/earth.jpg
+- 23:06:07.109 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/
+- 23:06:08.968 INFO: POST 302 /
+- 23:06:08.891 DEBUG: OnContextCreated()
+- 23:06:08.250 INFO: GET 200 /
+- 23:06:08.515 INFO: GET 404 /css/colors/theme-1.css
+- 23:06:08.515 INFO: GET 404 /plugins/switcher/switcher.css
+- 23:06:09.750 INFO: GET 404 /plugins/switcher/switcher.js
+[0225/230609.412:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+[0225/230609.448:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+- 23:06:09.234 INFO: GET 404 /img/earth.jpg
+- 23:06:09.234 INFO: GET 404 /img/rocket.jpg
+[0225/230609.864:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 23:06:10.796 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/
+- 23:08:53.015 DEBUG: F5 pressed, reloading page
+- 23:08:53.015 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/
+- 23:08:54.593 INFO: GET 200 /
+- 23:08:54.250 DEBUG: OnContextCreated()
+- 23:08:54.640 INFO: GET 200 /css/font-awesome.min.css
+- 23:08:54.640 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 23:08:54.640 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 23:08:54.640 INFO: GET 200 /css/style.css
+- 23:08:54.640 INFO: GET 200 /css/bootstrap.min.css
+- 23:08:54.656 INFO: GET 200 /css/custom.css
+- 23:08:54.656 INFO: GET 200 /css/responsive.css
+- 23:08:54.843 INFO: GET 404 /plugins/switcher/switcher.css
+- 23:08:54.843 INFO: GET 404 /css/colors/theme-1.css
+- 23:08:56.703 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 23:08:56.703 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 23:08:56.703 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 23:08:56.703 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 23:08:56.703 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 23:08:56.703 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 23:08:56.750 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 23:08:56.843 DEBUG: F5 pressed, reloading page
+- 23:08:56.890 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 23:08:56.937 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 23:08:56.937 INFO: GET 200 /img/icons/support.svg
+- 23:08:56.937 INFO: GET 200 /img/number-one.png
+- 23:08:56.937 INFO: GET 200 /img/icons/setup.svg
+- 23:08:56.968 INFO: GET 200 /img/logo.png
+- 23:08:56.968 INFO: GET 200 /img/icons/download.svg
+- 23:08:56.968 INFO: GET 200 /img/icons/loading.png
+- 23:08:56.968 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 23:08:56.000 INFO: GET 200 /js/menu.min.js
+- 23:08:56.015 INFO: GET 200 /img/icons/earth.svg
+- 23:08:56.015 INFO: GET 200 /js/scripts.js
+- 23:08:56.015 INFO: GET 200 /js/custom.js
+- 23:08:56.031 INFO: GET 200 /img/icons/phone.svg
+- 23:08:56.031 INFO: GET 200 /img/icons/tv.svg
+- 23:08:56.031 INFO: GET 200 /img/icons/right-arrow.svg
+- 23:08:56.031 INFO: GET 200 /img/icons/server.svg
+- 23:08:56.046 INFO: GET 200 /img/icons/left-arrow.svg
+- 23:08:56.125 INFO: GET 404 /plugins/switcher/switcher.js
+- 23:08:56.265 INFO: GET 200 /
+- 23:08:56.296 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:57025/
+- 23:08:56.937 DEBUG: OnContextCreated()
+- 23:08:56.328 INFO: GET 200 /css/bootstrap.min.css
+- 23:08:56.328 INFO: GET 200 /css/font-awesome.min.css
+- 23:08:56.328 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 23:08:56.328 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 23:08:56.328 INFO: GET 200 /css/style.css
+- 23:08:56.343 INFO: GET 200 /css/responsive.css
+- 23:08:56.343 INFO: GET 200 /css/custom.css
+- 23:08:56.531 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 23:08:56.531 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 23:08:56.531 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 23:08:56.531 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 23:08:56.531 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 23:08:56.531 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 23:08:56.546 INFO: GET 404 /plugins/switcher/switcher.css
+- 23:08:56.546 INFO: GET 404 /css/colors/theme-1.css
+- 23:08:57.593 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 23:08:57.609 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 23:08:57.656 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 23:08:57.656 INFO: GET 200 /img/icons/support.svg
+- 23:08:57.656 INFO: GET 200 /img/number-one.png
+- 23:08:57.656 INFO: GET 200 /img/logo.png
+- 23:08:57.656 INFO: GET 200 /img/icons/setup.svg
+- 23:08:57.687 INFO: GET 200 /img/icons/download.svg
+- 23:08:57.687 INFO: GET 200 /img/icons/loading.png
+- 23:08:57.687 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 23:08:57.687 INFO: GET 200 /js/menu.min.js
+- 23:08:57.734 INFO: GET 200 /js/scripts.js
+- 23:08:57.750 INFO: GET 200 /js/custom.js
+- 23:08:57.750 INFO: GET 200 /img/icons/earth.svg
+- 23:08:57.750 INFO: GET 200 /img/icons/phone.svg
+- 23:08:57.750 INFO: GET 200 /img/icons/tv.svg
+- 23:08:57.765 INFO: GET 200 /img/icons/server.svg
+- 23:08:57.765 INFO: GET 200 /img/icons/right-arrow.svg
+- 23:08:57.765 INFO: GET 200 /img/icons/left-arrow.svg
+- 23:08:57.859 INFO: GET 404 /plugins/switcher/switcher.js
+- 23:08:58.109 INFO: GET 404 /plugins/switcher/switcher.js
+- 23:08:58.203 INFO: GET 200 /img/icons/setup.svg
+- 23:08:58.203 INFO: GET 200 /img/icons/download.svg
+- 23:08:58.203 INFO: GET 200 /img/icons/support.svg
+- 23:08:58.203 INFO: GET 200 /img/icons/earth.svg
+- 23:08:58.203 INFO: GET 200 /img/icons/phone.svg
+- 23:08:58.218 INFO: GET 200 /img/icons/tv.svg
+- 23:08:58.218 INFO: GET 200 /img/icons/server.svg
+- 23:08:58.218 INFO: GET 200 /img/icons/right-arrow.svg
+- 23:08:58.218 INFO: GET 200 /img/icons/left-arrow.svg
+[0225/230858.646:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+[0225/230858.683:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57025/js/jquery-3.3.1.min.js (2)
+- 23:08:58.406 INFO: GET 404 /img/rocket.jpg
+- 23:08:58.406 INFO: GET 404 /img/earth.jpg
+[0225/230858.988:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 23:09:02.218 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/
+- 23:09:05.937 DEBUG: ClientHandler::OnBeforePopup()
+- 23:09:05.953 INFO: Setting default size for a popup window 800/600
+- 23:09:05.953 DEBUG: Window max width/height = 1286/720
+- 23:09:05.984 DEBUG: ClientHandler::OnAfterCreated()
+- 23:09:05.984 DEBUG: GetBrowserWindow(): not found, hwnd = 1312500
+- 23:09:05.984 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 23:09:05.984 DEBUG: StoreBrowserWindow(): hwnd = 1312500
+- 23:09:05.984 DEBUG: Centering popup window relative to its parent
+- 23:09:05.641 DEBUG: OnBrowserCreated()
+- 23:09:05.000 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:09:05.312 INFO: GET 302 /admin
+- 23:09:06.718 INFO: GET 200 /bower_components/bootstrap/dist/css/bootstrap.min.css
+- 23:09:06.718 INFO: GET 200 /bower_components/font-awesome/css/font-awesome.min.css
+- 23:09:06.734 INFO: GET 200 /dist/css/skins/_all-skins.min.css
+- 23:09:06.718 INFO: GET 200 /bower_components/Ionicons/css/ionicons.min.css
+- 23:09:06.734 INFO: GET 200 /dist/css/AdminLTE.min.css
+- 23:09:06.734 INFO: GET 200 /login
+- 23:09:06.734 INFO: GET 200 /bower_components/morris.js/morris.css
+- 23:09:06.734 INFO: GET 200 /bower_components/jvectormap/jquery-jvectormap.css
+- 23:09:06.734 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+- 23:09:06.734 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.css
+- 23:09:06.734 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+- 23:09:06.422 DEBUG: OnContextCreated()
+- 23:09:06.796 INFO: GET 200 /plugins/iCheck/square/blue.css
+- 23:09:06.843 INFO: GET 200 /css/toastr.min.css
+- 23:09:06.843 INFO: GET 200 /bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css
+- 23:09:06.843 INFO: GET 200 /bower_components/jquery/dist/jquery.min.js
+- 23:09:06.906 INFO: GET 200 /bower_components/bootstrap/dist/js/bootstrap.min.js
+- 23:09:06.937 INFO: GET 200 /plugins/iCheck/icheck.min.js
+- 23:09:06.937 INFO: GET 200 /bower_components/jquery-ui/jquery-ui.min.js
+- 23:09:06.109 INFO: GET 200 /bower_components/raphael/raphael.min.js
+- 23:09:06.203 INFO: GET 200 /bower_components/morris.js/morris.min.js
+- 23:09:06.234 INFO: GET 200 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+- 23:09:06.250 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+- 23:09:06.265 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+- 23:09:06.265 INFO: GET 200 /bower_components/jquery-knob/dist/jquery.knob.min.js
+- 23:09:06.281 INFO: GET 200 /bower_components/moment/min/moment.min.js
+- 23:09:06.296 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+- 23:09:06.312 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+- 23:09:06.312 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+- 23:09:06.375 INFO: GET 200 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+- 23:09:06.375 INFO: GET 200 /bower_components/fastclick/lib/fastclick.js
+- 23:09:06.390 INFO: GET 200 /dist/js/adminlte.min.js
+- 23:09:06.390 INFO: GET 200 /bower_components/datatables.net/js/jquery.dataTables.min.js
+- 23:09:06.421 INFO: GET 200 /bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js
+- 23:09:06.421 INFO: GET 200 /js/toastr.min.js
+- 23:09:06.421 INFO: GET 200 /dist/js/pages/dashboard.js
+- 23:09:07.812 INFO: GET 200 /bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+- 23:09:07.421 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/login
+[0225/230907.850:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230907.899:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230907.900:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:09:38.796 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/login
+- 23:09:38.265 INFO: POST 302 /login
+- 23:09:38.109 DEBUG: OnContextCreated()
+- 23:09:38.468 INFO: GET 200 /login
+- 23:09:39.578 INFO: GET 200 /bower_components/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 23:09:39.875 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/login
+[0225/230939.314:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230939.363:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230939.363:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:09:46.593 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/login
+- 23:09:46.968 INFO: POST 302 /login
+- 23:09:46.781 DEBUG: OnContextCreated()
+- 23:09:46.140 INFO: GET 200 /login
+- 23:09:46.234 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/login
+[0225/230946.671:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230946.700:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230946.701:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:09:56.265 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/login
+- 23:09:56.453 INFO: POST 302 /login
+- 23:09:57.250 DEBUG: OnContextCreated()
+- 23:09:57.625 INFO: GET 200 /login
+- 23:09:57.765 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/login
+[0225/230957.199:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230957.260:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/230957.260:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:10:01.453 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/login
+- 23:10:02.422 DEBUG: OnContextCreated()
+- 23:10:02.796 INFO: GET 200 /password/reset
+- 23:10:02.937 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/password/reset
+[0225/231002.364:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231002.396:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231002.397:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:10:15.953 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/password/reset
+- 23:10:15.218 INFO: POST 302 /password/email
+- 23:10:15.078 DEBUG: OnContextCreated()
+- 23:10:15.437 INFO: GET 200 /password/reset
+- 23:10:16.781 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/password/reset
+[0225/231016.206:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231016.247:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231016.247:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:12:54.234 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/password/reset
+- 23:12:54.937 DEBUG: OnContextCreated()
+- 23:12:55.609 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/password/reset
+[0225/231255.040:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231255.129:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231255.130:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:12:56.390 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/password/reset
+- 23:12:56.031 DEBUG: OnContextCreated()
+- 23:12:56.500 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/login
+[0225/231256.926:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231256.964:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231256.964:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:13:10.703 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/login
+- 23:13:10.187 INFO: POST 302 /login
+- 23:13:11.344 DEBUG: OnContextCreated()
+- 23:13:11.718 INFO: GET 200 /admin
+- 23:13:11.937 INFO: GET 200 /uploads/users/avatar.png
+- 23:13:11.140 INFO: GET 200 /bower_components/Ionicons/fonts/ionicons28b5.ttf?v=2.0.0
+- 23:13:11.562 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/admin
+[0225/231311.990:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231312.064:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231312.064:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231313.797:INFO:CONSOLE(7)] "Error: <g> attribute transform: Expected number, "scale(NaN) translate(N…".", source: http://127.0.0.1:57025/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js (7)
+- 23:13:18.437 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57025/admin
+- 23:13:19.375 DEBUG: OnContextCreated()
+- 23:13:19.750 INFO: GET 200 /admin/subscribers
+- 23:13:19.078 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57025/admin/subscribers
+[0225/231319.508:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231319.601:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+[0225/231319.601:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:57025/bower_components/jquery/dist/jquery.min.js (2)
+- 23:13:46.234 DEBUG: WM_DESTROY
+- 23:13:46.234 DEBUG: RemoveBrowserWindow(): hwnd = 1509940
+- 23:13:46.437 DEBUG: OnBeforeClose() hwnd=789366
+- 23:13:46.437 DEBUG: RemoveBrowserWindow(): hwnd = 789366
+- 23:13:46.437 DEBUG: GetBrowserWindow(): not found, hwnd = 789366
+- 23:13:46.437 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:13:46.125 DEBUG: OnBrowserDestroyed()
+- 23:13:48.609 DEBUG: OnBeforeClose() hwnd=1312500
+- 23:13:48.609 DEBUG: RemoveBrowserWindow(): hwnd = 1312500
+- 23:13:48.609 DEBUG: Calling CefQuitMessageLoop()
+- 23:13:48.297 DEBUG: OnBrowserDestroyed()
+- 23:13:48.953 INFO: Ended application
+- 23:13:48.953 INFO: --------------------------------------------------------
+- 00:56:20.172 INFO: --------------------------------------------------------
+- 00:56:20.172 INFO: Started application
+- 00:56:20.172 INFO: Logging to: E:\portfolio windows\debug.log
+- 00:56:20.187 INFO: Log level = DEBUG4
+- 00:56:20.187 INFO: Starting Mongoose 3.9c web server
+- 00:56:20.187 INFO: WWW directory: E:\portfolio windows\www\public
+- 00:56:20.187 INFO: Index files: index.html,index.php
+- 00:56:20.187 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 00:56:20.187 INFO: CGI pattern: **.php$
+- 00:56:20.187 INFO: Hide files patterns: 
+- 00:56:20.187 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 00:56:20.187 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 00:56:20.234 INFO: Web server url: http://127.0.0.1:57834/
+- 00:56:20.234 INFO: remote_debugging_port = 50347
+- 00:56:20.437 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=50347
+- 00:56:24.000 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=7DDD6C248EF7576D2B17562ABF326CF6 --mojo-platform-channel-handle=1572 /prefetch:2
+[0226/005624.629:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 00:56:25.609 DEBUG: App::OnContextInitialized()
+- 00:56:25.609 DEBUG: Window max width/height = 1286/720
+- 00:56:25.609 DEBUG: GetBrowserWindow(): not found, hwnd = 4000888
+- 00:56:25.609 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 00:56:25.609 DEBUG: BrowserWindow::CreateBrowserControl()
+- 00:56:25.625 DEBUG: StoreBrowserWindow(): hwnd = 4000888
+- 00:56:26.422 DEBUG: ClientHandler::OnAfterCreated()
+- 00:56:26.422 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 00:56:27.687 DEBUG: OnLoadingStateChange: loading=1, url=
+- 00:56:27.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=94577A16F966224C68F0E0E0697D1641 --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=94577A16F966224C68F0E0E0697D1641 --renderer-client-id=3 --mojo-platform-channel-handle=1820 /prefetch:1
+- 00:56:27.235 DEBUG: OnBrowserCreated()
+- 00:56:33.594 INFO: GET 200 /
+- 00:56:34.781 INFO: GET 200 /css/bootstrap.min.css
+- 00:56:34.781 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 00:56:34.781 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 00:56:34.812 INFO: GET 200 /css/responsive.css
+- 00:56:34.812 INFO: GET 200 /css/font-awesome.min.css
+- 00:56:34.812 INFO: GET 200 /css/style.css
+- 00:56:34.844 INFO: GET 200 /css/custom.css
+- 00:56:37.609 INFO: GET 404 /plugins/switcher/switcher.css
+- 00:56:37.609 INFO: GET 404 /css/colors/theme-1.css
+- 00:56:37.969 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 00:56:37.015 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 00:56:38.047 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 00:56:38.047 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 00:56:38.109 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 00:56:38.187 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 00:56:38.203 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 00:56:40.500 DEBUG: OnContextCreated()
+- 00:56:41.562 INFO: GET 200 /js/custom.js
+- 00:56:41.609 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 00:56:41.609 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 00:56:41.625 INFO: GET 200 /js/menu.min.js
+- 00:56:41.625 INFO: GET 200 /js/scripts.js
+- 00:56:42.125 INFO: GET 200 /img/icons/download.svg
+- 00:56:42.125 INFO: GET 200 /img/icons/support.svg
+- 00:56:42.125 INFO: GET 200 /img/number-one.png
+- 00:56:42.125 INFO: GET 200 /img/logo.png
+- 00:56:42.125 INFO: GET 200 /img/icons/setup.svg
+- 00:56:42.219 INFO: GET 404 /plugins/switcher/switcher.js
+- 00:56:42.375 INFO: GET 200 /img/icons/right-arrow.svg
+- 00:56:42.375 INFO: GET 200 /img/icons/left-arrow.svg
+- 00:56:42.422 INFO: GET 200 /img/icons/earth.svg
+- 00:56:42.437 INFO: GET 200 /img/icons/phone.svg
+- 00:56:42.437 INFO: GET 200 /img/icons/tv.svg
+- 00:56:42.437 INFO: GET 200 /img/icons/loading.png
+- 00:56:42.437 INFO: GET 200 /img/icons/server.svg
+- 00:56:43.312 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 00:56:49.203 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/005649.802:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57834/js/jquery-3.3.1.min.js (2)
+- 00:56:49.984 INFO: GET 404 /img/earth.jpg
+[0226/005650.105:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57834/js/jquery-3.3.1.min.js (2)
+[0226/005650.124:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 00:56:51.312 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57834/
+- 00:56:54.781 INFO: GET 404 /img/rocket.jpg
+- 00:57:02.375 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57834/
+- 00:57:02.937 INFO: GET 200 /portfolio
+- 00:57:03.438 DEBUG: OnContextCreated()
+- 00:57:03.359 INFO: GET 404 /css/colors/theme-1.css
+- 00:57:03.359 INFO: GET 404 /plugins/switcher/switcher.css
+- 00:57:03.609 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/005703.692:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57834/js/jquery-3.3.1.min.js (2)
+[0226/005703.788:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57834/js/jquery-3.3.1.min.js (2)
+- 00:57:03.969 INFO: GET 404 /img/hills.jpg
+[0226/005704.349:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 00:57:04.687 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57834/portfolio
+- 00:57:11.344 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57834/portfolio
+- 00:57:11.922 DEBUG: OnContextCreated()
+- 00:57:11.625 INFO: GET 200 /contact
+- 00:57:11.844 INFO: GET 404 /plugins/switcher/switcher.css
+- 00:57:11.844 INFO: GET 404 /css/colors/theme-1.css
+- 00:57:11.859 INFO: GET 200 /img/24seven-Developers-cover.jpg
+- 00:57:12.078 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/005712.114:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:57834/js/jquery-3.3.1.min.js (2)
+[0226/005712.221:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:57834/js/jquery-3.3.1.min.js (2)
+- 00:57:12.375 INFO: GET 404 /img/hills.jpg
+- 00:57:12.437 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57834/contact
+[0226/005712.725:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 01:01:21.812 INFO: GET 200 /css/bootstrap.min.css
+- 01:01:21.812 INFO: GET 200 /css/font-awesome.min.css
+- 01:01:21.812 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 01:01:21.812 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 01:01:21.812 INFO: GET 200 /css/responsive.css
+- 01:01:21.812 INFO: GET 200 /css/style.css
+- 01:01:21.969 INFO: GET 200 /contact
+- 01:01:22.094 INFO: GET 404 /plugins/switcher/switcher.css
+- 01:01:22.125 INFO: GET 404 /css/colors/theme-1.css
+- 01:01:22.125 INFO: GET 200 /css/custom.css
+- 01:01:22.328 INFO: GET 200 /img/logo.png
+- 01:01:22.453 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 01:01:22.453 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 01:01:22.453 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 01:01:22.453 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 01:01:22.453 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 01:01:22.453 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 01:01:22.765 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 01:01:22.765 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 01:01:22.859 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 01:01:22.000 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:01:22.015 INFO: GET 200 /js/menu.min.js
+- 01:01:22.015 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 01:01:22.031 INFO: GET 200 /js/scripts.js
+- 01:01:23.047 INFO: GET 200 /js/custom.js
+- 01:01:23.156 INFO: GET 200 /img/icons/loading.png
+- 01:01:23.156 INFO: GET 200 /img/24seven-Developers-cover.jpg
+- 01:01:23.797 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:01:24.219 INFO: GET 404 /img/hills.jpg
+- 01:01:24.890 INFO: GET 200 /img/favicon.png
+- 01:03:13.656 DEBUG: WM_DESTROY
+- 01:03:13.656 DEBUG: RemoveBrowserWindow(): hwnd = 4000888
+- 01:03:13.656 INFO: Stopping Mongoose web server
+- 01:03:13.656 DEBUG: Mongoose webserver stopped immediately
+- 01:03:14.078 DEBUG: OnBeforeClose() hwnd=1639750
+- 01:03:14.078 DEBUG: RemoveBrowserWindow(): hwnd = 1639750
+- 01:03:14.078 DEBUG: GetBrowserWindow(): not found, hwnd = 1639750
+- 01:03:14.078 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 01:03:14.078 DEBUG: Calling CefQuitMessageLoop()
+- 01:03:14.500 DEBUG: OnBrowserDestroyed()
+- 01:03:14.672 INFO: Ended application
+- 01:03:14.672 INFO: --------------------------------------------------------
+- 01:46:49.344 INFO: --------------------------------------------------------
+- 01:46:49.360 INFO: Started application
+- 01:46:49.360 INFO: Logging to: E:\portfolio windows\debug.log
+- 01:46:49.360 INFO: Log level = DEBUG4
+- 01:46:49.360 INFO: Starting Mongoose 3.9c web server
+- 01:46:49.360 INFO: WWW directory: E:\portfolio windows\www\public
+- 01:46:49.360 INFO: Index files: index.html,index.php
+- 01:46:49.360 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 01:46:49.360 INFO: CGI pattern: **.php$
+- 01:46:49.360 INFO: Hide files patterns: 
+- 01:46:49.360 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 01:46:49.360 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:46:49.375 INFO: Web server url: http://127.0.0.1:58179/
+- 01:46:49.422 INFO: remote_debugging_port = 56609
+- 01:46:49.782 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=56609
+- 01:46:54.000 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=D8C127414E45C481E8D6C765BCA89078 --mojo-platform-channel-handle=1572 /prefetch:2
+[0226/014654.151:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 01:46:55.469 DEBUG: App::OnContextInitialized()
+- 01:46:55.469 DEBUG: Window max width/height = 1286/720
+- 01:46:55.469 DEBUG: GetBrowserWindow(): not found, hwnd = 3867824
+- 01:46:55.469 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:46:55.485 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:46:55.485 DEBUG: StoreBrowserWindow(): hwnd = 3867824
+- 01:46:56.766 DEBUG: ClientHandler::OnAfterCreated()
+- 01:46:56.766 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 01:46:57.657 DEBUG: OnLoadingStateChange: loading=1, url=
+- 01:46:57.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=FABD4D132600D34FB7ABFA8DD05D7B53 --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=FABD4D132600D34FB7ABFA8DD05D7B53 --renderer-client-id=3 --mojo-platform-channel-handle=1816 /prefetch:1
+- 01:46:57.500 DEBUG: OnBrowserCreated()
+- 01:47:01.563 INFO: GET 200 /
+- 01:47:02.407 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 01:47:02.407 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 01:47:02.422 INFO: GET 200 /css/font-awesome.min.css
+- 01:47:02.438 INFO: GET 200 /css/bootstrap.min.css
+- 01:47:02.453 INFO: GET 200 /css/style.css
+- 01:47:02.469 INFO: GET 200 /css/responsive.css
+- 01:47:02.469 INFO: GET 200 /css/custom.css
+- 01:47:02.563 INFO: GET 404 /plugins/switcher/switcher.css
+- 01:47:02.625 INFO: GET 404 /css/colors/theme-1.css
+- 01:47:02.688 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 01:47:02.797 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 01:47:02.844 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 01:47:02.875 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 01:47:02.922 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 01:47:02.032 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 01:47:02.047 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 01:47:03.282 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:47:03.297 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 01:47:03.313 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 01:47:03.344 INFO: GET 200 /js/menu.min.js
+- 01:47:03.344 INFO: GET 200 /js/scripts.js
+- 01:47:03.375 INFO: GET 200 /js/custom.js
+- 01:47:03.109 DEBUG: OnContextCreated()
+- 01:47:04.375 INFO: GET 200 /img/icons/download.svg
+- 01:47:04.375 INFO: GET 200 /img/icons/earth.svg
+- 01:47:04.375 INFO: GET 200 /img/number-one.png
+- 01:47:04.375 INFO: GET 200 /img/icons/setup.svg
+- 01:47:04.375 INFO: GET 200 /img/icons/support.svg
+- 01:47:04.375 INFO: GET 200 /img/logo.png
+- 01:47:04.469 INFO: GET 200 /img/icons/phone.svg
+- 01:47:04.469 INFO: GET 200 /img/icons/tv.svg
+- 01:47:04.469 INFO: GET 200 /img/icons/left-arrow.svg
+- 01:47:04.469 INFO: GET 200 /img/icons/server.svg
+- 01:47:04.469 INFO: GET 200 /img/icons/right-arrow.svg
+- 01:47:04.844 INFO: GET 200 /img/icons/loading.png
+- 01:47:05.500 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 01:47:09.500 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/014710.253:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:58179/js/jquery-3.3.1.min.js (2)
+- 01:47:10.563 INFO: GET 404 /img/earth.jpg
+[0226/014710.809:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:58179/js/jquery-3.3.1.min.js (2)
+[0226/014711.193:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 01:47:11.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/
+- 01:47:24.485 INFO: GET 404 /img/rocket.jpg
+- 01:47:28.094 DEBUG: ClientHandler::OnBeforePopup()
+- 01:47:28.094 INFO: Setting default size for a popup window 800/600
+- 01:47:28.094 DEBUG: Window max width/height = 1286/720
+- 01:47:28.125 DEBUG: ClientHandler::OnAfterCreated()
+- 01:47:28.125 DEBUG: GetBrowserWindow(): not found, hwnd = 6227010
+- 01:47:28.125 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 01:47:28.125 DEBUG: StoreBrowserWindow(): hwnd = 6227010
+- 01:47:28.125 DEBUG: Centering popup window relative to its parent
+- 01:47:28.453 DEBUG: OnBrowserCreated()
+- 01:47:28.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 01:47:29.672 INFO: GET 200 /bower_components/font-awesome/css/font-awesome.min.css
+- 01:47:29.672 INFO: GET 200 /admin
+- 01:47:29.688 INFO: GET 200 /bower_components/morris.js/morris.css
+- 01:47:29.703 INFO: GET 200 /bower_components/Ionicons/css/ionicons.min.css
+- 01:47:29.703 INFO: GET 200 /bower_components/bootstrap/dist/css/bootstrap.min.css
+- 01:47:29.703 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.css
+- 01:47:29.703 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+- 01:47:29.719 INFO: GET 200 /dist/css/skins/_all-skins.min.css
+- 01:47:29.719 INFO: GET 200 /dist/css/AdminLTE.min.css
+- 01:47:29.735 INFO: GET 200 /bower_components/jvectormap/jquery-jvectormap.css
+- 01:47:29.828 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+- 01:47:29.156 DEBUG: OnContextCreated()
+- 01:47:29.860 INFO: GET 200 /bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css
+- 01:47:29.922 INFO: GET 200 /plugins/iCheck/square/blue.css
+- 01:47:29.922 INFO: GET 200 /css/toastr.min.css
+- 01:47:29.969 INFO: GET 200 /bower_components/jquery/dist/jquery.min.js
+- 01:47:29.985 INFO: GET 200 /bower_components/bootstrap/dist/js/bootstrap.min.js
+- 01:47:29.000 INFO: GET 200 /plugins/iCheck/icheck.min.js
+- 01:47:29.000 INFO: GET 200 /bower_components/morris.js/morris.min.js
+- 01:47:29.000 INFO: GET 200 /bower_components/raphael/raphael.min.js
+- 01:47:29.063 INFO: GET 200 /bower_components/jquery-ui/jquery-ui.min.js
+- 01:47:29.078 INFO: GET 200 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+- 01:47:29.141 INFO: GET 200 /bower_components/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 01:47:30.219 INFO: GET 200 /bower_components/Ionicons/fonts/ionicons28b5.ttf?v=2.0.0
+- 01:47:30.375 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+- 01:47:30.375 INFO: GET 200 /uploads/users/avatar.png
+- 01:47:30.391 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+- 01:47:30.453 INFO: GET 200 /bower_components/jquery-knob/dist/jquery.knob.min.js
+- 01:47:30.532 INFO: GET 200 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+- 01:47:30.516 INFO: GET 200 /bower_components/moment/min/moment.min.js
+- 01:47:30.532 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+- 01:47:30.532 INFO: GET 200 /bower_components/fastclick/lib/fastclick.js
+- 01:47:30.532 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+- 01:47:30.532 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+- 01:47:30.610 INFO: GET 200 /dist/js/adminlte.min.js
+- 01:47:30.610 INFO: GET 200 /bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js
+- 01:47:30.610 INFO: GET 200 /bower_components/datatables.net/js/jquery.dataTables.min.js
+- 01:47:30.782 INFO: GET 200 /dist/js/pages/dashboard.js
+- 01:47:30.797 INFO: GET 200 /js/toastr.min.js
+- 01:47:30.219 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin
+[0226/014731.056:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014731.377:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014731.381:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014732.220:INFO:CONSOLE(7)] "Error: <g> attribute transform: Expected number, "scale(NaN) translate(N…".", source: http://127.0.0.1:58179/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js (7)
+- 01:47:56.453 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin
+- 01:47:56.000 INFO: GET 200 /admin/sliders
+- 01:47:56.406 DEBUG: OnContextCreated()
+- 01:47:57.532 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/sliders
+[0226/014757.303:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014757.347:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014757.347:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:00.735 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin/sliders
+- 01:48:00.390 DEBUG: OnContextCreated()
+- 01:48:00.094 INFO: GET 200 /admin/metatags
+- 01:48:00.219 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/metatags
+[0226/014800.999:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014801.039:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014801.039:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:03.672 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin/metatags
+- 01:48:03.172 DEBUG: OnContextCreated()
+- 01:48:03.860 INFO: GET 200 /admin/subscribers
+- 01:48:03.985 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/subscribers
+[0226/014803.770:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:03.172 INFO: GET 200 /bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+[0226/014804.241:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014804.245:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:05.500 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin/subscribers
+- 01:48:05.172 DEBUG: OnContextCreated()
+- 01:48:05.875 INFO: GET 200 /admin/subscribers/1/edit
+- 01:48:05.078 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/subscribers/1/edit
+[0226/014805.860:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014805.892:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014805.892:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:11.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin/subscribers/1/edit
+- 01:48:11.016 INFO: POST 302 /admin/subscribers/1
+- 01:48:12.547 DEBUG: OnContextCreated()
+- 01:48:12.235 INFO: GET 200 /admin/subscribers
+[0226/014812.113:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:12.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/subscribers
+[0226/014812.181:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014812.181:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:21.313 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin/subscribers
+- 01:48:21.859 DEBUG: OnContextCreated()
+- 01:48:21.547 INFO: GET 200 /admin/users/create
+- 01:48:21.735 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/users/create
+[0226/014821.514:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014821.546:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014821.546:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:48:23.797 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58179/admin/users/create
+- 01:48:23.500 DEBUG: OnContextCreated()
+- 01:48:23.188 INFO: GET 200 /admin/sliders/create
+- 01:48:24.500 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58179/admin/sliders/create
+[0226/014824.276:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014824.312:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+[0226/014824.312:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58179/bower_components/jquery/dist/jquery.min.js (2)
+- 01:51:40.015 INFO: --------------------------------------------------------
+- 01:51:40.015 INFO: Started application
+- 01:51:40.015 INFO: Logging to: E:\portfolio windows\debug.log
+- 01:51:40.015 INFO: Log level = DEBUG4
+- 01:51:40.015 INFO: Starting Mongoose 3.9c web server
+- 01:51:40.015 INFO: WWW directory: E:\portfolio windows\www\public
+- 01:51:40.015 INFO: Index files: index.html,index.php
+- 01:51:40.015 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 01:51:40.015 INFO: CGI pattern: **.php$
+- 01:51:40.015 INFO: Hide files patterns: 
+- 01:51:40.015 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 01:51:40.015 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:51:40.015 INFO: Web server url: http://127.0.0.1:58292/
+- 01:51:40.015 INFO: remote_debugging_port = 52189
+- 01:51:40.031 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=52189
+- 01:51:40.078 DEBUG: App::OnContextInitialized()
+- 01:51:40.078 DEBUG: Window max width/height = 1286/720
+- 01:51:40.078 DEBUG: GetBrowserWindow(): not found, hwnd = 2099652
+- 01:51:40.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:51:40.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:51:40.078 DEBUG: StoreBrowserWindow(): hwnd = 2099652
+- 01:51:40.093 DEBUG: ClientHandler::OnAfterCreated()
+- 01:51:40.093 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 01:51:40.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 01:51:40.000 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=9BA664199A71A513FF2209672F4AADAB --mojo-platform-channel-handle=1488 /prefetch:2
+- 01:51:40.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=91D05FE058F0C6DC211308B452B52D72 --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=91D05FE058F0C6DC211308B452B52D72 --renderer-client-id=3 --mojo-platform-channel-handle=1824 /prefetch:1
+[0226/015140.674:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 01:51:40.047 DEBUG: OnBrowserCreated()
+[0226/015140.694:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0226/015140.694:ERROR:cache_util.cc(134)] Unable to move cache folder E:\portfolio windows\webcache\GPUCache to E:\portfolio windows\webcache\old_GPUCache_000
+[0226/015140.694:ERROR:disk_cache.cc(132)] Unable to create cache
+[0226/015140.694:ERROR:shader_disk_cache.cc(593)] Shader Cache Creation failed: -2
+[0226/015140.714:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0226/015140.714:ERROR:cache_util.cc(134)] Unable to move cache folder E:\portfolio windows\webcache\Cache to E:\portfolio windows\webcache\old_Cache_000
+[0226/015140.714:ERROR:disk_cache.cc(132)] Unable to create cache
+- 01:51:42.640 INFO: GET 200 /css/font-awesome.min.css
+- 01:51:42.640 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 01:51:42.640 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 01:51:42.640 INFO: GET 200 /css/bootstrap.min.css
+- 01:51:42.640 INFO: GET 200 /
+- 01:51:42.640 INFO: GET 200 /css/responsive.css
+- 01:51:42.640 INFO: GET 200 /css/custom.css
+- 01:51:42.640 INFO: GET 200 /css/style.css
+- 01:51:42.828 INFO: GET 404 /plugins/switcher/switcher.css
+- 01:51:42.843 INFO: GET 404 /css/colors/theme-1.css
+- 01:51:42.937 DEBUG: OnContextCreated()
+- 01:51:42.078 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 01:51:42.078 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 01:51:42.078 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 01:51:42.078 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 01:51:42.078 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 01:51:42.078 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 01:51:42.093 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 01:51:42.093 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 01:51:42.109 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 01:51:42.109 INFO: GET 200 /js/menu.min.js
+- 01:51:42.109 INFO: GET 200 /js/scripts.js
+- 01:51:42.109 INFO: GET 200 /js/custom.js
+- 01:51:42.109 INFO: GET 200 /img/logo.png
+- 01:51:42.109 INFO: GET 200 /img/number-one.png
+- 01:51:42.109 INFO: GET 200 /img/icons/setup.svg
+- 01:51:42.125 INFO: GET 200 /img/icons/download.svg
+- 01:51:42.125 INFO: GET 200 /img/icons/support.svg
+- 01:51:42.125 INFO: GET 200 /img/icons/earth.svg
+- 01:51:42.125 INFO: GET 200 /img/icons/phone.svg
+- 01:51:42.125 INFO: GET 200 /img/icons/tv.svg
+- 01:51:42.140 INFO: GET 200 /img/icons/server.svg
+- 01:51:42.140 INFO: GET 200 /img/icons/right-arrow.svg
+- 01:51:42.140 INFO: GET 200 /img/icons/left-arrow.svg
+- 01:51:42.140 INFO: GET 200 /img/icons/loading.png
+- 01:51:42.140 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 01:51:42.312 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:51:43.297 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:51:43.359 INFO: GET 200 /img/icons/setup.svg
+- 01:51:43.359 INFO: GET 200 /img/icons/download.svg
+- 01:51:43.359 INFO: GET 200 /img/icons/support.svg
+- 01:51:43.359 INFO: GET 200 /img/icons/earth.svg
+- 01:51:43.359 INFO: GET 200 /img/icons/phone.svg
+[0226/015143.877:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:58292/js/jquery-3.3.1.min.js (2)
+- 01:51:43.375 INFO: GET 200 /img/icons/tv.svg
+- 01:51:43.375 INFO: GET 200 /img/icons/server.svg
+- 01:51:43.375 INFO: GET 200 /img/icons/right-arrow.svg
+- 01:51:43.375 INFO: GET 200 /img/icons/left-arrow.svg
+[0226/015143.909:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:58292/js/jquery-3.3.1.min.js (2)
+- 01:51:44.531 INFO: GET 404 /img/earth.jpg
+[0226/015145.309:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 01:51:45.093 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58292/
+- 01:51:54.578 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58292/
+- 01:51:54.750 INFO: GET 200 /
+- 01:51:54.781 DEBUG: OnContextCreated()
+- 01:51:54.922 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 01:51:54.922 INFO: GET 200 /css/bootstrap.min.css
+- 01:51:54.922 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 01:51:54.922 INFO: GET 200 /css/style.css
+- 01:51:54.922 INFO: GET 200 /css/font-awesome.min.css
+- 01:51:54.922 INFO: GET 200 /css/responsive.css
+- 01:51:54.922 INFO: GET 200 /css/custom.css
+- 01:51:54.140 INFO: GET 404 /css/colors/theme-1.css
+- 01:51:54.156 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 01:51:54.140 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 01:51:54.156 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 01:51:54.156 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 01:51:54.156 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 01:51:54.156 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 01:51:54.156 INFO: GET 404 /plugins/switcher/switcher.css
+- 01:51:54.156 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 01:51:54.172 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 01:51:54.172 INFO: GET 200 /js/menu.min.js
+- 01:51:54.172 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 01:51:54.172 INFO: GET 200 /js/scripts.js
+- 01:51:54.172 INFO: GET 200 /img/number-one.png
+- 01:51:54.172 INFO: GET 200 /js/custom.js
+- 01:51:54.172 INFO: GET 200 /img/logo.png
+- 01:51:54.172 INFO: GET 200 /img/icons/setup.svg
+- 01:51:54.172 INFO: GET 200 /img/icons/download.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/phone.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/support.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/earth.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/tv.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/server.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/right-arrow.svg
+- 01:51:54.187 INFO: GET 200 /img/icons/loading.png
+- 01:51:54.187 INFO: GET 200 /img/icons/left-arrow.svg
+- 01:51:54.203 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 01:51:54.359 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:51:56.937 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:51:56.968 INFO: GET 200 /img/icons/setup.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/download.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/support.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/earth.svg
+[0226/015156.481:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:58292/js/jquery-3.3.1.min.js (2)
+- 01:51:56.968 INFO: GET 200 /img/icons/phone.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/tv.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/server.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/left-arrow.svg
+- 01:51:56.968 INFO: GET 200 /img/icons/right-arrow.svg
+[0226/015156.505:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:58292/js/jquery-3.3.1.min.js (2)
+- 01:51:56.140 INFO: GET 404 /img/earth.jpg
+[0226/015157.750:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 01:51:57.265 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58292/
+- 01:51:58.375 DEBUG: WM_DESTROY
+- 01:51:58.375 DEBUG: RemoveBrowserWindow(): hwnd = 2099652
+- 01:51:58.375 INFO: Stopping Mongoose web server
+- 01:51:58.375 DEBUG: Mongoose webserver stopped immediately
+- 01:51:59.515 DEBUG: OnBeforeClose() hwnd=5047596
+- 01:51:59.515 DEBUG: RemoveBrowserWindow(): hwnd = 5047596
+- 01:51:59.515 DEBUG: GetBrowserWindow(): not found, hwnd = 5047596
+- 01:51:59.515 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 01:51:59.515 DEBUG: Calling CefQuitMessageLoop()
+- 01:51:59.468 DEBUG: OnBrowserDestroyed()
+- 01:51:59.375 INFO: Ended application
+- 01:51:59.375 INFO: --------------------------------------------------------
+- 01:52:19.000 INFO: --------------------------------------------------------
+- 01:52:19.000 INFO: Started application
+- 01:52:19.000 INFO: Logging to: E:\portfolio windows\debug.log
+- 01:52:19.000 INFO: Log level = DEBUG4
+- 01:52:19.000 INFO: Starting Mongoose 3.9c web server
+- 01:52:19.000 INFO: WWW directory: E:\portfolio windows\www\public
+- 01:52:19.000 INFO: Index files: index.html,index.php
+- 01:52:19.000 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 01:52:19.000 INFO: CGI pattern: **.php$
+- 01:52:19.000 INFO: Hide files patterns: 
+- 01:52:19.000 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 01:52:19.000 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:52:19.000 INFO: Web server url: http://127.0.0.1:58432/
+- 01:52:19.000 INFO: remote_debugging_port = 53579
+- 01:52:19.000 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=53579
+- 01:52:19.047 DEBUG: App::OnContextInitialized()
+- 01:52:19.047 DEBUG: Window max width/height = 1286/720
+- 01:52:19.047 DEBUG: GetBrowserWindow(): not found, hwnd = 10027720
+- 01:52:19.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:52:19.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:52:19.047 DEBUG: StoreBrowserWindow(): hwnd = 10027720
+- 01:52:19.078 DEBUG: ClientHandler::OnAfterCreated()
+- 01:52:19.078 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 01:52:19.094 DEBUG: OnLoadingStateChange: loading=1, url=
+- 01:52:19.000 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=78DCC97D570CB365F7F28A1FB5D810B8 --mojo-platform-channel-handle=1424 /prefetch:2
+- 01:52:19.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=48A2DFB273C9162E6ACA87F5810371E9 --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=48A2DFB273C9162E6ACA87F5810371E9 --renderer-client-id=3 --mojo-platform-channel-handle=1768 /prefetch:1
+[0226/015219.266:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 01:52:19.032 DEBUG: OnBrowserCreated()
+[0226/015219.281:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0226/015219.281:ERROR:cache_util.cc(134)] Unable to move cache folder E:\portfolio windows\webcache\GPUCache to E:\portfolio windows\webcache\old_GPUCache_000
+[0226/015219.281:ERROR:disk_cache.cc(132)] Unable to create cache
+[0226/015219.281:ERROR:shader_disk_cache.cc(593)] Shader Cache Creation failed: -2
+[0226/015219.281:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0226/015219.281:ERROR:cache_util.cc(134)] Unable to move cache folder E:\portfolio windows\webcache\Cache to E:\portfolio windows\webcache\old_Cache_000
+[0226/015219.281:ERROR:disk_cache.cc(132)] Unable to create cache
+- 01:52:20.406 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 01:52:20.406 INFO: GET 200 /css/font-awesome.min.css
+- 01:52:20.406 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 01:52:20.406 INFO: GET 200 /css/bootstrap.min.css
+- 01:52:20.406 INFO: GET 200 /
+- 01:52:20.406 INFO: GET 200 /css/responsive.css
+- 01:52:20.406 INFO: GET 200 /css/style.css
+- 01:52:20.406 INFO: GET 200 /css/custom.css
+- 01:52:20.656 INFO: GET 404 /plugins/switcher/switcher.css
+- 01:52:20.672 INFO: GET 404 /css/colors/theme-1.css
+- 01:52:20.657 DEBUG: OnContextCreated()
+- 01:52:20.781 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 01:52:20.781 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 01:52:20.781 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 01:52:20.781 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 01:52:20.781 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 01:52:20.781 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 01:52:20.781 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 01:52:20.781 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 01:52:20.781 INFO: GET 200 /js/menu.min.js
+- 01:52:20.781 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 01:52:20.781 INFO: GET 200 /js/scripts.js
+- 01:52:20.797 INFO: GET 200 /js/custom.js
+- 01:52:20.797 INFO: GET 200 /img/logo.png
+- 01:52:20.797 INFO: GET 200 /img/number-one.png
+- 01:52:20.797 INFO: GET 200 /img/icons/setup.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/download.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/support.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/earth.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/phone.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/tv.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/server.svg
+- 01:52:20.797 INFO: GET 200 /img/icons/right-arrow.svg
+- 01:52:20.813 INFO: GET 200 /img/icons/left-arrow.svg
+- 01:52:20.813 INFO: GET 200 /img/icons/loading.png
+- 01:52:20.813 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 01:52:21.000 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:52:21.859 INFO: GET 404 /plugins/switcher/switcher.js
+- 01:52:22.000 INFO: GET 200 /img/icons/setup.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/download.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/support.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/earth.svg
+[0226/015222.119:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:58432/js/jquery-3.3.1.min.js (2)
+- 01:52:22.000 INFO: GET 200 /img/icons/phone.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/tv.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/server.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/right-arrow.svg
+- 01:52:22.000 INFO: GET 200 /img/icons/left-arrow.svg
+[0226/015222.223:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:58432/js/jquery-3.3.1.min.js (2)
+- 01:52:22.219 INFO: GET 404 /img/earth.jpg
+[0226/015223.203:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 01:52:23.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58432/
+- 01:52:26.750 DEBUG: WM_DESTROY
+- 01:52:26.750 DEBUG: RemoveBrowserWindow(): hwnd = 10027720
+- 01:52:26.750 INFO: Stopping Mongoose web server
+- 01:52:26.750 DEBUG: Mongoose webserver stopped immediately
+- 01:52:26.766 DEBUG: OnBeforeClose() hwnd=3410430
+- 01:52:26.766 DEBUG: RemoveBrowserWindow(): hwnd = 3410430
+- 01:52:26.766 DEBUG: GetBrowserWindow(): not found, hwnd = 3410430
+- 01:52:26.766 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 01:52:26.766 DEBUG: Calling CefQuitMessageLoop()
+- 01:52:27.563 INFO: Ended application
+- 01:52:27.563 INFO: --------------------------------------------------------
+- 01:53:48.172 DEBUG: OnBeforeClose() hwnd=8915562
+- 01:53:48.172 DEBUG: RemoveBrowserWindow(): hwnd = 8915562
+- 01:53:48.172 DEBUG: GetBrowserWindow(): not found, hwnd = 8915562
+- 01:53:48.172 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed

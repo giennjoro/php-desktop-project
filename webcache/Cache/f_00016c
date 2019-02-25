@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Kelmas Ventures Ltd</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta name="description" content="We are a recruiting agency that recruits on behalf of cruise ships all over the world. We recruit, train and expose personels to work in different positions in the cruise ships. " />
+    <meta name="keywords" content="Kelmas Ventures Ltd" />
+    <meta name="author" content="" />
+    <meta name="MobileOptimized" content="320" />
+    <!--srart theme style -->
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:55898/client/css/responsive.css" />
+    <!-- favicon links -->
+    <link rel="shortcut icon" type="image/png" href="http://127.0.0.1:55898/favicon.png" />
+    </head>
+<body>
+        
+     <!-- preloader Start -->
+     <div id="preloader">
+        <div id="status"><img src="http://127.0.0.1:55898/client/images/header/loadinganimation.gif" id="preloader_image" alt="loader">
+        </div>
+    </div>
+    
+    <!-- Top Scroll End -->
+     <!-- Top Header Wrapper Start(except home page) -->
+         <!-- Top Header Wrapper End -->
+    <!-- Header Wrapper Start -->
+
+                                                                   
+    <div class="jp_top_header_img_wrapper">
+        <div class="jp_slide_img_overlay"></div>
+        <div class="gc_main_menu_wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 hidden-xs hidden-sm full_width">
+                        <div class="gc_header_wrapper">
+                            <div class="gc_logo">
+                                <a href="/"><img src="http://127.0.0.1:55898/logo_white.png" alt="Logo" title="Kelmas Logo" class="img-responsive"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- main menu -->
+<div class="col-lg-7 col-md-8 col-sm-12 col-xs-12 center_responsive">
+        <div class="header-area hidden-menu-bar stick" id="sticker">
+            <!-- mainmenu start -->
+            <div class="mainmenu">
+                <ul class="float_left">
+                    <li class="has-mega gc_main_navigation"><a href="/" class="gc_main_navigation">  Home</a>
+                    </li>
+                    <li class="has-mega gc_main_navigation"><a href="/about" class="gc_main_navigation">  About Us</a>
+                    </li>
+                    <li class="has-mega gc_main_navigation"><a href="/jobs" class="gc_main_navigation">  Jobs</a>
+                    </li>
+                    <li class="has-mega gc_main_navigation"><a href="/contact" class="gc_main_navigation">  Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- mainmenu end -->
+            <!-- mobile menu area start -->
+                <header class="mobail_menu">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-6 col-sm-6">
+                <div class="gc_logo">
+                    <a href="/"><img width="200px" src="http://127.0.0.1:55898/logo_white.png" alt="Logo" title="Kelmas Logo"></a>
+                </div>
+            </div>
+            <div class="col-xs-6 col-sm-6">
+                <div class="cd-dropdown-wrapper">
+                    <a class="house_toggle" href="#0">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 31.177 31.177" style="enable-background:new 0 0 31.177 31.177;" xml:space="preserve" width="25px" height="25px"><g><g><path class="menubar" d="M30.23,1.775H0.946c-0.489,0-0.887-0.398-0.887-0.888S0.457,0,0.946,0H30.23    c0.49,0,0.888,0.398,0.888,0.888S30.72,1.775,30.23,1.775z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,9.126H12.069c-0.49,0-0.888-0.398-0.888-0.888c0-0.49,0.398-0.888,0.888-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,8.729,30.72,9.126,30.23,9.126z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,16.477H0.946c-0.489,0-0.887-0.398-0.887-0.888c0-0.49,0.398-0.888,0.887-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,16.079,30.72,16.477,30.23,16.477z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,23.826H12.069c-0.49,0-0.888-0.396-0.888-0.887c0-0.49,0.398-0.888,0.888-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,23.43,30.72,23.826,30.23,23.826z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,31.177H0.946c-0.489,0-0.887-0.396-0.887-0.887c0-0.49,0.398-0.888,0.887-0.888H30.23    c0.49,0,0.888,0.398,0.888,0.888C31.118,30.78,30.72,31.177,30.23,31.177z" fill="#ffffff"/></g></g></svg>
+                        </a>
+                    <nav class="cd-dropdown">
+                        <h2><a href="#">Kelmas<span>Recruiters</span></a></h2>
+                        <a href="#0" class="cd-close">Close</a>
+                        <ul class="cd-dropdown-content">
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            <li>
+                                <a href="/about">About Us</a>
+                            </li>
+                            <li>
+                                <a href="/jobs">Jobs</a>
+                            </li>
+                            <li>
+                                <a href="/contact">Contact us</a>
+                            </li>
+                                                            <li>
+                                    <a href="/login">Login</a>
+                                </li>
+                                <li>
+                                    <a href="/register">Sign Up</a>
+                                </li>
+                                                    </ul>
+                        <!-- .cd-dropdown-content -->
+
+
+
+                    </nav>
+                    <!-- .cd-dropdown -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- .cd-dropdown-wrapper -->
+</header>            
+        </div>
+</div>
+    <!-- mobile menu area end -->
+                        <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+                                                        <div class="jp_navi_right_btn_wrapper">
+                                <ul>
+                                    <li><a href="/register"><i class="fa fa-user"></i>&nbsp; SIGN UP</a></li>
+                                    <li><a href="login"><i class="fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
+                                </ul>
+                            </div>
+                                            
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="jp_banner_heading_cont_wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="jp_job_heading_wrapper">
+                            <div class="jp_job_heading">
+                                <h1>We Are <span>Kelmas</span> Ventures Ltd</h1>
+                                <p>Find Jobs here. We offer training, internship and jobs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <form method="GET" action="http://127.0.0.1:55898/search/jobs" accept-charset="UTF-8" id="search_form">
+                        <input type="hidden" name="_token" value="PkuzKV8VxSZinN7JkbHVtfOm4M2fRrPPcNAqIZaX">                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="jp_header_form_wrapper">
+                            
+                            <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+                                <input type="text" placeholder="Search Here" name="item">
+                            </div>
+                            
+                            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                                <div class="jp_form_btn_wrapper">
+                                    <ul>
+                                        <li><a href="javascript:void(0)"
+                                       onclick="event.preventDefault();
+                                                     document.getElementById('search_form').submit();"><i class="fa fa-search"></i> Search</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <button type="submit" style="display:none"></button>
+                        </div>
+                    </div>
+                     </form>
+                     
+                     
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="jp_banner_main_jobs_wrapper">
+                            <div class="jp_banner_main_jobs">
+                                <ul>
+                                    <li><i class="fa fa-tags"></i> Available job positions :</li>
+                                    <li><a href="javascript:void(0)">Catering,</a></li>
+                                    <li><a href="javascript:void(0)">House keeping,</a></li>
+                                    <li><a href="javascript:void(0)">Spar and massage, </a></li>
+                                    <li><a href="javascript:void(0)">Waiters and waitresses,</a></li>
+                                    <li><a href="javascript:void(0)">Bar tender,</a></li>
+                                    <li><a href="javascript:void(0)">Stewards,</a></li>
+                                    <li><a href="javascript:void(0)">Gym Instructors,</a></li>
+                                    
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="jp_banner_jobs_categories_wrapper">
+            <div class="container">
+                <div class="jp_top_jobs_category_wrapper jp_job_cate_left_border jp_job_cate_left_border_bottom">
+                    <div class="jp_top_jobs_category">
+                        <i class="fa fa-utensils"></i>
+                        <h3><a href="javascript:void(0)">Catering</a></h3>
+                    
+                    </div>
+                </div>
+                <div class="jp_top_jobs_category_wrapper jp_job_cate_left_border_bottom">
+                    <div class="jp_top_jobs_category">
+                        <i class="fa fa-person-booth"></i>
+                        <h3><a href="javascript:void(0)">House Keeping</a></h3>
+                        
+                    </div>
+                </div>
+                <div class="jp_top_jobs_category_wrapper jp_job_cate_left_border_bottom">
+                    <div class="jp_top_jobs_category">
+                        <i class="fa fa-bed"></i>
+                        <h3><a href="javascript:void(0)">Spar and Massage</a></h3>
+                        
+                    </div>
+                </div>
+                <div class="jp_top_jobs_category_wrapper jp_job_cate_left_border_res">
+                    <div class="jp_top_jobs_category">
+                        <i class="fa fa-concierge-bell "></i>
+                        <h3><a href="javascript:void(0)">waiters and Waitresses</a></h3>
+                    
+                    </div>
+                </div>
+                <div class="jp_top_jobs_category_wrapper">
+                    <div class="jp_top_jobs_category">
+                        <i class="fa fa-glass-martini-alt"></i>
+                        <h3><a href="javascript:void(0)">Bartenders</a></h3>
+                
+                    </div>
+                </div>
+                <div class="jp_top_jobs_category_wrapper">
+                    <div class="jp_top_jobs_category">
+                        <i class="fa fa-users"></i>
+                        <h3><a href="javascript:void(0)">Butlers</a></h3>
+                
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- jp Best deals Wrapper Start -->
+    <div class="jp_best_deals_main_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="jp_best_deal_slider_main_wrapper">
+                        <div class="jp_best_deal_heading_wrapper">
+                            <h2>The process involved</h2>
+                        </div>
+                        <div class="jp_best_deal_slider_wrapper">
+                        
+                                <div class="item">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                            <div class="jp_best_deal_main_cont_wrapper">
+                                                <div class="jp_best_deal_icon_sec">
+                                                    <i class="flaticon-magnifying-glass"></i>
+                                                </div>
+                                                <div class="jp_best_deal_cont_sec">
+                                                    <h4><a href="javascript:void(0)">Search for Jobs</a></h4>
+                                                    <p>Search for jobs of your desire.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                            <div class="jp_best_deal_main_cont_wrapper jp_best_deal_main_cont_wrapper1">
+                                                <div class="jp_best_deal_icon_sec">
+                                                    <i class="flaticon-users"></i>
+                                                </div>
+                                                <div class="jp_best_deal_cont_sec">
+                                                    <h4><a href="javascript:void(0)">Apply for a Job of your choice</a></h4>
+                                                    <p>Choose a job that suits you and apply for it immediately.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                            <div class="jp_best_deal_main_cont_wrapper jp_best_deal_main_cont_wrapper2">
+                                                <div class="jp_best_deal_icon_sec">
+                                                    <i class="fa fa-university"></i>
+                                                </div>
+                                                <div class="jp_best_deal_cont_sec">
+                                                    <h4><a href="javascript:void(0)">Get Trained</a></h4>
+                                                    <p>Get equiped with the relevant skills to start your new career.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                <div class="jp_best_deal_main_cont_wrapper jp_best_deal_main_cont_wrapper2">
+                                                    <div class="jp_best_deal_icon_sec">
+                                                        <i class="flaticon-shield"></i>
+                                                    </div>
+                                                    <div class="jp_best_deal_cont_sec">
+                                                        <h4><a href="javascript:void(0)">Get Employed</a></h4>
+                                                        <p>We will put you under a 1 year contract with a salary of over ksh 100,000</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- jp Best deals Wrapper End -->
+    <div class="jp_best_deals_main_wrapper">
+        <div class="container">
+                <div class="jp_best_deal_heading_wrapper">
+                        <h2>Recent Job Posts</h2><br><br>
+                </div>
+        </div>
+            
+    </div>
+
+        <div class="jp_best_deals_main_wrapper">
+        <div class="container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="jp_job_post_side_img">
+                            <img src="http://127.0.0.1:55898/client/images/job.png" alt="post_img" />
+                        </div>
+                        <div class="jp_job_post_right_cont">
+                            <h4>Catering</h4>
+                            <p>Kelmas Ventures Ltd</p>
+                            <ul>
+                                <li><i class="fa fa-money-bill"></i>&nbsp;Ksh __ per month</li>
+                                <!-- <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="jp_job_post_right_btn_wrapper">
+                                <ul>
+                                    <li><a href="/jobs">view Job</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="jp_best_deals_main_wrapper">
+        <div class="container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="jp_job_post_side_img">
+                            <img src="http://127.0.0.1:55898/client/images/job.png" alt="post_img" />
+                        </div>
+                        <div class="jp_job_post_right_cont">
+                            <h4>Butlers</h4>
+                            <p>Kelmas Ventures Ltd</p>
+                            <ul>
+                                <li><i class="fa fa-money-bill"></i>&nbsp;Ksh _- per month</li>
+                                <!-- <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="jp_job_post_right_btn_wrapper">
+                                <ul>
+                                    <li><a href="/jobs">view Job</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="jp_best_deals_main_wrapper">
+        <div class="container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="jp_job_post_side_img">
+                            <img src="http://127.0.0.1:55898/client/images/job.png" alt="post_img" />
+                        </div>
+                        <div class="jp_job_post_right_cont">
+                            <h4>Massage Therapist</h4>
+                            <p>Kelmas Ventures Ltd</p>
+                            <ul>
+                                <li><i class="fa fa-money-bill"></i>&nbsp;Ksh __ per month</li>
+                                <!-- <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="jp_job_post_right_btn_wrapper">
+                                <ul>
+                                    <li><a href="/jobs">view Job</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="jp_best_deals_main_wrapper">
+        <div class="container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="jp_job_post_side_img">
+                            <img src="http://127.0.0.1:55898/client/images/job.png" alt="post_img" />
+                        </div>
+                        <div class="jp_job_post_right_cont">
+                            <h4>Gym Instructions</h4>
+                            <p>Kelmas Ventures Ltd</p>
+                            <ul>
+                                <li><i class="fa fa-money-bill"></i>&nbsp;Ksh __ per month</li>
+                                <!-- <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="jp_job_post_right_btn_wrapper">
+                                <ul>
+                                    <li><a href="/jobs">view Job</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- jp Client Wrapper Start -->
+    <div class="jp_client_slider_main_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="jp_first_client_slider_wrapper">
+                        <div class="jp_first_client_slider_img_overlay"></div>
+                        <div class="jp_client_heading_wrapper">
+                            <h2>What our Clients Say?</h2>
+                        </div>
+                        <div class="jp_client_slider_wrapper">
+                            <div class="owl-carousel owl-theme">
+                                <div class="item">
+                                    <div class="jp_client_slide_show_wrapper">
+                                        <div class="jp_client_slider_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/content/client_slider_img.png" alt="client_img" />
+                                        </div>
+                                        <div class="jp_client_slider_cont_wrapper">
+                                            <p>“I was recruited as a housekeeper by Kelmas Ventures Ltd where I received a refresher course and now happily serving in my career”</p>
+                                            <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i><span>~ Applicant 1 &nbsp;<b>(housekeeper)</b></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="jp_client_slide_show_wrapper">
+                                        <div class="jp_client_slider_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/content/client_slider_img.png" alt="client_img" />
+                                        </div>
+                                        <div class="jp_client_slider_cont_wrapper">
+                                            <p>“I was recruited as a bartender by Kelmas Recruitment agency where I received a refresher course and now serving as a cruise ship attendant”</p>
+                                            <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i><span>~ Applicant 2 &nbsp;<b>(bartender)</b></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="jp_client_slide_show_wrapper">
+                                        <div class="jp_client_slider_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/content/client_slider_img.png" alt="client_img" />
+                                        </div>
+                                        <div class="jp_client_slider_cont_wrapper">
+                                            <p>“I was recruited as a waitress by Kelmas Ventures agency where I received a refresher course and now serving as a cruise ship attendant”</p>
+                                            <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i><span>~ Applicant 3 &nbsp;<b>(waitress)</b></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- jp Client Wrapper End -->
+    <div class="jp_career_main_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="jp_hiring_slider_main_wrapper">
+                        <div class="jp_career_slider_heading_wrapper">
+                            <h2>Activities</h2>
+                        </div>
+                        <div class="jp_career_slider_wrapper">
+                            <div class="owl-carousel owl-theme">
+                                <!-- Start of galllery -->
+                                
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f1.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f2.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f3.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f4.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f5.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f6.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/f7.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/camarote_con_balcon.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/1.png" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/red_velvet.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/teatro.jpg" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/wine.png" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/2.png" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/swimo.png" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item jp_recent_main">
+                                    <div class="jp_career_main_box_wrapper">
+                                        <div class="jp_career_img_wrapper">
+                                            <img src="http://127.0.0.1:55898/client/images/gallery/3.png" alt="career_img" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End of gallery -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- jp Newsletter Wrapper Start -->
+<div class="jp_main_footer_img_wrapper">
+    <div class="jp_newsletter_img_overlay_wrapper"></div>
+    <div class="jp_newsletter_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="jp_newsletter_text">
+                        <img src="http://127.0.0.1:55898/client/images/content/news_logo.png" class="img-responsive" alt="news_logo" />
+                    </div>
+                </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                       <div class="jp_newsletter_field">
+                            <form method="POST" action="http://127.0.0.1:55898/subscribe" accept-charset="UTF-8"><input name="_token" type="hidden" value="PkuzKV8VxSZinN7JkbHVtfOm4M2fRrPPcNAqIZaX">
+                                <input type="hidden" name="_token" value="PkuzKV8VxSZinN7JkbHVtfOm4M2fRrPPcNAqIZaX">                                <i class="fa fa-envelope-o"></i>
+                                <input placeholder="Enter your Email" name="email" type="email" value="">
+                                <button class="btn" type="submit">Subscribe Now</button>
+                            </form>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <!-- jp Newsletter Wrapper End -->
+    <!-- jp footer Wrapper Start -->
+    <div class="jp_footer_main_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="jp_footer_logo_wrapper">
+                        <div class="jp_footer_logo">
+                            <a href="javascript:void(0)"><img src="http://127.0.0.1:55898/logo_white.png" alt="footer_logo"/></a>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="jp_footer_three_sec_main_wrapper">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="jp_footer_first_cont_wrapper">
+                            <div class="jp_footer_first_cont">
+                                <h2>Who We Are</h2>
+                                <p>We are a recruiting agency that recruits on behalf of cruise ships all over the world. 
+                        We are the first company to recruit for msc cruise ship.
+                        We recruit, train and expose personels to work in different positions in the cruise ships.
+                        Kelmas Ventures Ltd works in association with <a style="color:#5DBCD2; text-decoration: underline; font-weight: bold;" href="https://www.taskinstitute.ac.ke">The Task Catering Training Institute</a> to train and equip the recruits with the neccessary skills.
+                        <br>
+                    </p>
+                                <ul>
+                                    <li><i class="fa fa-plus-circle"></i> <a href="/about">READ MORE</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="jp_footer_candidate_wrapper jp_footer_candidate_wrapper2">
+                            <div class="jp_footer_candidate">
+                                <h2>Navigation</h2>
+                                <ul>
+                                    <li><a href="/"><i class="fa fa-caret-right" aria-hidden="true"></i> Home</a></li>
+                                    <li><a href="/about"><i class="fa fa-caret-right" aria-hidden="true"></i> About Us</a></li>
+                                    <li><a href="/about"><i class="fa fa-caret-right" aria-hidden="true"></i> Apply for Jobs</a></li>
+                                    <li><a href="/contact"><i class="fa fa-caret-right" aria-hidden="true"></i> Contact Us </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="jp_footer_candidate_wrapper jp_footer_candidate_wrapper3">
+                            <div class="jp_footer_candidate">
+                                <h2>Quick links</h2>
+                                <ul>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Jobs available</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-caret-right" aria-hidden="/jobs"></i> Application Form</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-caret-right" aria-hidden="https://taskinstitute.ac.ke"></i> Get training</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-caret-right" aria-hidden="true"></i> FAQs</a></li>
+                                    <li><a href="/webmail"><i class="fa fa-caret-right" aria-hidden="true"></i>Webmail</a></li>
+                                    <li><a href="/administrator"><i class="fa fa-caret-right" aria-hidden="true"></i>Admin</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="jp_footer_candidate_wrapper jp_footer_candidate_wrapper4">
+                            <div class="jp_footer_candidate">
+                                <h2>Available Jobs</h2>
+                                <ul>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Bartenders</a></li>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Waiters & Waitresses</a></li>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Gym Instructors</a></li>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Catering</a></li>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> House Keepers</a></li>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Spar and massage therapists</a></li>
+                                    <li><a href="/jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Stewards</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="jp_bottom_footer_Wrapper">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="jp_bottom_footer_left_cont">
+                                    <p>&copy 2019 Kelmas Ventures Ltd. All Rights Reserved.</p>
+                                </div>
+                                <div class="jp_bottom_top_scrollbar_wrapper">
+                                    <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="jp_bottom_footer_right_cont">
+                                    <ul>
+                                        <li><a href="javascript:void(0)"><ion-icon name="logo-facebook"></ion-icon></a></li>
+                                        <li><a href="javascript:void(0)"><ion-icon name="logo-twitter"></ion-icon></a></li>
+                                        <li><a href="mailto:info@kelmasrecruiters.co.ke"><i class="fa fa-envelope"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <p class="pull-right" >Developed by <a style="color:javascript:void(0)5DBCD2;" target="_blank" href="https://www.24seven.co.ke">24seven Developers</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- jp footer Wrapper End -->    <!--main js file start-->
+    <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/jquery_min.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/bootstrap.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/jquery.menu-aim.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/jquery.countTo.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/jquery.inview.min.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/jquery.magnific-popup.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/owl.carousel.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/modernizr.js"></script>
+    <script src="http://127.0.0.1:55898/client/js/custom.js"></script>
+<script src="http://127.0.0.1:55898/client/js/custom_II.js"></script>
+    
+    <!--main js file end-->
+</body>
+</html>
