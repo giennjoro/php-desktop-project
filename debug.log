@@ -1782,3 +1782,435 @@
 - 01:53:48.172 DEBUG: RemoveBrowserWindow(): hwnd = 8915562
 - 01:53:48.172 DEBUG: GetBrowserWindow(): not found, hwnd = 8915562
 - 01:53:48.172 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 02:02:12.000 INFO: --------------------------------------------------------
+- 02:02:12.000 INFO: Started application
+- 02:02:12.000 INFO: Logging to: E:\portfolio windows\debug.log
+- 02:02:12.000 INFO: Log level = DEBUG4
+- 02:02:12.000 INFO: Starting Mongoose 3.9c web server
+- 02:02:12.000 INFO: WWW directory: E:\portfolio windows\www\public
+- 02:02:12.000 INFO: Index files: index.html,index.php
+- 02:02:12.000 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 02:02:12.000 INFO: CGI pattern: **.php$
+- 02:02:12.000 INFO: Hide files patterns: 
+- 02:02:12.000 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 02:02:12.000 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 02:02:12.016 INFO: Web server url: http://127.0.0.1:58559/
+- 02:02:12.016 INFO: remote_debugging_port = 58893
+- 02:02:12.016 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=58893
+- 02:02:12.078 DEBUG: App::OnContextInitialized()
+- 02:02:12.078 DEBUG: Window max width/height = 1286/720
+- 02:02:12.078 DEBUG: GetBrowserWindow(): not found, hwnd = 6357644
+- 02:02:12.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 02:02:12.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 02:02:12.078 DEBUG: StoreBrowserWindow(): hwnd = 6357644
+- 02:02:12.094 DEBUG: ClientHandler::OnAfterCreated()
+- 02:02:12.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 02:02:12.000 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=29208A392003B72F455158C3917CEC61 --mojo-platform-channel-handle=1460 /prefetch:2
+- 02:02:12.109 DEBUG: OnLoadingStateChange: loading=1, url=
+[0226/020212.654:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 02:02:12.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=C3230489EC7DCC33D11A241137AC7DE0 --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=C3230489EC7DCC33D11A241137AC7DE0 --renderer-client-id=3 --mojo-platform-channel-handle=1776 /prefetch:1
+- 02:02:12.032 DEBUG: OnBrowserCreated()
+- 02:02:14.875 INFO: GET 200 /css/font-awesome.min.css
+- 02:02:14.875 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 02:02:14.875 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 02:02:14.875 INFO: GET 200 /css/bootstrap.min.css
+- 02:02:14.875 INFO: GET 200 /css/responsive.css
+- 02:02:14.875 INFO: GET 200 /css/style.css
+- 02:02:14.938 INFO: GET 200 /
+- 02:02:14.078 INFO: GET 404 /plugins/switcher/switcher.css
+- 02:02:14.078 INFO: GET 404 /css/colors/theme-1.css
+- 02:02:15.859 INFO: GET 200 /css/custom.css
+- 02:02:16.016 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 02:02:16.625 DEBUG: OnContextCreated()
+- 02:02:16.625 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 02:02:16.625 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 02:02:16.625 INFO: GET 200 /img/icons/setup.svg
+- 02:02:16.625 INFO: GET 200 /img/icons/loading.png
+- 02:02:16.625 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 02:02:16.625 INFO: GET 200 /img/logo.png
+- 02:02:17.641 INFO: GET 200 /img/icons/support.svg
+- 02:02:17.641 INFO: GET 200 /img/icons/download.svg
+- 02:02:17.641 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 02:02:17.641 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 02:02:17.641 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 02:02:17.641 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 02:02:17.844 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 02:02:17.844 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 02:02:17.844 INFO: GET 200 /js/menu.min.js
+- 02:02:17.844 INFO: GET 200 /js/scripts.js
+- 02:02:17.891 INFO: GET 200 /js/custom.js
+- 02:02:17.953 INFO: GET 200 /img/number-one.png
+- 02:02:17.953 INFO: GET 200 /img/icons/earth.svg
+- 02:02:17.953 INFO: GET 200 /img/icons/phone.svg
+- 02:02:17.953 INFO: GET 200 /img/icons/tv.svg
+- 02:02:17.953 INFO: GET 200 /img/icons/server.svg
+- 02:02:17.953 INFO: GET 200 /img/icons/right-arrow.svg
+- 02:02:17.953 INFO: GET 200 /img/icons/left-arrow.svg
+- 02:02:17.094 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/020217.592:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:58559/js/jquery-3.3.1.min.js (2)
+[0226/020217.764:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:58559/js/jquery-3.3.1.min.js (2)
+- 02:02:17.422 INFO: GET 404 /img/earth.jpg
+[0226/020217.917:INFO:CONSOLE(25)] "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "24Seven Developers",
+  "image" : "https://www.24seven.co.ke/images/logo1.png",
+    // "author" : "24seven Developers",
+  "telephone" : [ "+254 799 315478", "+254 723 077827" ],
+  "email" : "info@24seven.co.ke",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Juja",
+    "addressCountry" : "Kenya"
+  },
+  "url" : "https://www.24seven.co.ke/",
+  "review" : {
+    "@type" : "Review",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4"
+    }
+  }
+}
+'.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+- 02:02:18.219 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58559/
+- 02:02:27.203 INFO: GET 404 /img/rocket.jpg
+- 02:02:33.953 DEBUG: WM_DESTROY
+- 02:02:33.953 DEBUG: RemoveBrowserWindow(): hwnd = 6357644
+- 02:02:33.953 INFO: Stopping Mongoose web server
+- 02:02:33.953 DEBUG: Mongoose webserver stopped immediately
+- 02:02:33.969 DEBUG: OnBeforeClose() hwnd=5115600
+- 02:02:33.969 DEBUG: RemoveBrowserWindow(): hwnd = 5115600
+- 02:02:33.969 DEBUG: GetBrowserWindow(): not found, hwnd = 5115600
+- 02:02:33.969 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 02:02:33.969 DEBUG: Calling CefQuitMessageLoop()
+- 02:02:33.156 INFO: Ended application
+- 02:02:33.156 INFO: --------------------------------------------------------
+- 09:47:58.000 INFO: --------------------------------------------------------
+- 09:47:58.000 INFO: Started application
+- 09:47:58.000 INFO: Logging to: E:\portfolio windows\debug.log
+- 09:47:58.000 INFO: Log level = DEBUG4
+- 09:47:58.000 INFO: Starting Mongoose 3.9c web server
+- 09:47:58.000 INFO: WWW directory: E:\portfolio windows\www\public
+- 09:47:58.000 INFO: Index files: index.html,index.php
+- 09:47:58.000 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 09:47:58.000 INFO: CGI pattern: **.php$
+- 09:47:58.000 INFO: Hide files patterns: 
+- 09:47:58.000 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 09:47:58.000 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 09:47:58.015 INFO: Web server url: http://127.0.0.1:58916/
+- 09:47:58.015 INFO: remote_debugging_port = 61137
+- 09:47:58.015 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=61137
+- 09:47:58.046 DEBUG: App::OnContextInitialized()
+- 09:47:58.046 DEBUG: Window max width/height = 1286/720
+- 09:47:58.046 DEBUG: GetBrowserWindow(): not found, hwnd = 197106
+- 09:47:58.046 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 09:47:58.046 DEBUG: BrowserWindow::CreateBrowserControl()
+- 09:47:58.046 DEBUG: StoreBrowserWindow(): hwnd = 197106
+- 09:47:58.062 DEBUG: ClientHandler::OnAfterCreated()
+- 09:47:58.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 09:47:58.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 09:48:00.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=8C3FF9B39204DEF9721A24DC1D65F80F --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=8C3FF9B39204DEF9721A24DC1D65F80F --renderer-client-id=3 --mojo-platform-channel-handle=1776 /prefetch:1
+- 09:48:00.046 DEBUG: OnBrowserCreated()
+- 09:48:01.000 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=5D89FD3885277310BA0EDBD649A2985A --mojo-platform-channel-handle=1432 /prefetch:2
+[0226/094801.300:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 09:48:04.156 INFO: GET 200 /css/font-awesome.min.css
+- 09:48:04.156 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 09:48:04.156 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 09:48:04.156 INFO: GET 200 /css/bootstrap.min.css
+- 09:48:04.156 INFO: GET 200 /css/responsive.css
+- 09:48:04.156 INFO: GET 200 /css/style.css
+- 09:48:04.375 INFO: GET 200 /
+- 09:48:04.375 INFO: GET 200 /css/custom.css
+- 09:48:04.625 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 09:48:04.765 DEBUG: OnContextCreated()
+- 09:48:04.640 INFO: GET 404 /css/colors/theme-1.css
+- 09:48:04.640 INFO: GET 404 /plugins/switcher/switcher.css
+- 09:48:04.796 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 09:48:04.796 INFO: GET 200 /img/icons/loading.png
+- 09:48:04.796 INFO: GET 200 /img/icons/support.svg
+- 09:48:04.796 INFO: GET 200 /img/logo.png
+- 09:48:04.796 INFO: GET 200 /img/icons/setup.svg
+- 09:48:04.796 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 09:48:04.812 INFO: GET 200 /img/icons/download.svg
+- 09:48:04.812 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 09:48:04.812 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 09:48:04.812 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 09:48:05.828 INFO: GET 200 /plugins/parsley/parsley.min.js
+- 09:48:05.828 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 09:48:05.937 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 09:48:05.937 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 09:48:05.937 INFO: GET 200 /js/menu.min.js
+- 09:48:05.000 INFO: GET 200 /js/scripts.js
+- 09:48:05.000 INFO: GET 200 /js/custom.js
+- 09:48:05.015 INFO: GET 200 /img/number-one.png
+- 09:48:05.015 INFO: GET 200 /img/icons/earth.svg
+- 09:48:05.015 INFO: GET 200 /img/icons/phone.svg
+- 09:48:05.031 INFO: GET 200 /img/icons/tv.svg
+- 09:48:05.031 INFO: GET 200 /img/icons/server.svg
+- 09:48:05.031 INFO: GET 200 /img/icons/right-arrow.svg
+- 09:48:05.031 INFO: GET 200 /img/icons/left-arrow.svg
+- 09:48:05.156 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/094805.440:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:58916/js/jquery-3.3.1.min.js (2)
+[0226/094805.464:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:58916/js/jquery-3.3.1.min.js (2)
+- 09:48:05.406 INFO: GET 404 /img/earth.jpg
+[0226/094810.860:INFO:CONSOLE(18)] "Uncaught TypeError: document.getElementById(...).innerHTML is not a function", source: https://googlereviews.cws.net/google-reviews.js (18)
+- 09:48:11.312 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58916/
+- 09:48:26.953 INFO: GET 404 /img/rocket.jpg
+- 09:48:27.359 DEBUG: ClientHandler::OnBeforePopup()
+- 09:48:27.359 INFO: Setting default size for a popup window 800/600
+- 09:48:27.359 DEBUG: Window max width/height = 1286/720
+- 09:48:27.546 DEBUG: OnBrowserCreated()
+- 09:48:27.484 DEBUG: ClientHandler::OnAfterCreated()
+- 09:48:27.484 DEBUG: GetBrowserWindow(): not found, hwnd = 524800
+- 09:48:27.500 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 09:48:27.500 DEBUG: StoreBrowserWindow(): hwnd = 524800
+- 09:48:27.515 DEBUG: Centering popup window relative to its parent
+- 09:48:27.531 DEBUG: OnLoadingStateChange: loading=1, url=
+- 09:48:27.781 INFO: GET 302 /admin
+- 09:48:28.062 INFO: GET 200 /login
+- 09:48:28.078 INFO: GET 200 /bower_components/morris.js/morris.css
+- 09:48:28.218 DEBUG: OnContextCreated()
+- 09:48:28.093 INFO: GET 200 /bower_components/bootstrap/dist/css/bootstrap.min.css
+- 09:48:28.093 INFO: GET 200 /bower_components/Ionicons/css/ionicons.min.css
+- 09:48:28.093 INFO: GET 200 /dist/css/skins/_all-skins.min.css
+- 09:48:28.109 INFO: GET 200 /bower_components/font-awesome/css/font-awesome.min.css
+- 09:48:28.109 INFO: GET 200 /dist/css/AdminLTE.min.css
+- 09:48:28.187 INFO: GET 200 /bower_components/jvectormap/jquery-jvectormap.css
+- 09:48:28.203 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+- 09:48:28.203 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.css
+- 09:48:28.203 INFO: GET 200 /plugins/iCheck/square/blue.css
+- 09:48:28.218 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+- 09:48:28.218 INFO: GET 200 /css/toastr.min.css
+- 09:48:28.265 INFO: GET 200 /bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css
+- 09:48:28.265 INFO: GET 200 /bower_components/bootstrap/dist/js/bootstrap.min.js
+- 09:48:28.281 INFO: GET 200 /plugins/iCheck/icheck.min.js
+- 09:48:28.281 INFO: GET 200 /bower_components/jquery/dist/jquery.min.js
+- 09:48:28.281 INFO: GET 200 /bower_components/morris.js/morris.min.js
+- 09:48:28.281 INFO: GET 200 /bower_components/raphael/raphael.min.js
+- 09:48:28.312 INFO: GET 200 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+- 09:48:28.328 INFO: GET 200 /bower_components/jquery-ui/jquery-ui.min.js
+- 09:48:28.406 INFO: GET 200 /bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+- 09:48:28.421 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+- 09:48:28.421 INFO: GET 200 /bower_components/jquery-knob/dist/jquery.knob.min.js
+- 09:48:28.468 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+- 09:48:28.515 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+- 09:48:28.515 INFO: GET 200 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+- 09:48:28.531 INFO: GET 200 /bower_components/moment/min/moment.min.js
+- 09:48:28.546 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+- 09:48:28.546 INFO: GET 200 /dist/js/adminlte.min.js
+- 09:48:28.593 INFO: GET 200 /bower_components/fastclick/lib/fastclick.js
+- 09:48:28.609 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+- 09:48:28.656 INFO: GET 200 /bower_components/datatables.net/js/jquery.dataTables.min.js
+- 09:48:28.671 INFO: GET 200 /bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js
+- 09:48:28.687 INFO: GET 200 /dist/js/pages/dashboard.js
+- 09:48:28.687 INFO: GET 200 /js/toastr.min.js
+- 09:48:29.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58916/login
+[0226/094829.238:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58916/bower_components/jquery/dist/jquery.min.js (2)
+[0226/094829.367:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58916/bower_components/jquery/dist/jquery.min.js (2)
+[0226/094829.371:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58916/bower_components/jquery/dist/jquery.min.js (2)
+- 09:48:52.656 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58916/login
+- 09:48:53.046 INFO: POST 302 /login
+- 09:48:54.828 INFO: GET 200 /admin
+- 09:48:54.109 DEBUG: OnContextCreated()
+- 09:48:54.109 INFO: GET 200 /uploads/users/avatar.png
+- 09:48:54.218 INFO: GET 200 /bower_components/Ionicons/fonts/ionicons28b5.ttf?v=2.0.0
+- 09:48:54.234 INFO: GET 200 /bower_components/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 09:48:54.718 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58916/admin
+[0226/094854.932:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:58916/bower_components/jquery/dist/jquery.min.js (2)
+[0226/094855.263:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:58916/bower_components/jquery/dist/jquery.min.js (2)
+[0226/094855.267:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:58916/bower_components/jquery/dist/jquery.min.js (2)
+[0226/094857.071:INFO:CONSOLE(7)] "Error: <g> attribute transform: Expected number, "scale(NaN) translate(N…".", source: http://127.0.0.1:58916/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js (7)
+- 09:49:05.765 DEBUG: WM_DESTROY
+- 09:49:05.765 DEBUG: RemoveBrowserWindow(): hwnd = 197106
+- 09:49:05.765 DEBUG: OnBeforeClose() hwnd=262648
+- 09:49:05.765 DEBUG: RemoveBrowserWindow(): hwnd = 262648
+- 09:49:05.765 DEBUG: GetBrowserWindow(): not found, hwnd = 262648
+- 09:49:05.765 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 09:49:06.218 DEBUG: OnBrowserDestroyed()
+- 11:13:21.031 INFO: --------------------------------------------------------
+- 11:13:21.078 INFO: Started application
+- 11:13:21.078 INFO: Logging to: E:\portfolio windows\debug.log
+- 11:13:21.078 INFO: Log level = DEBUG4
+- 11:13:21.078 INFO: Starting Mongoose 3.9c web server
+- 11:13:21.078 INFO: WWW directory: E:\portfolio windows\www\public
+- 11:13:21.078 INFO: Index files: index.html,index.php
+- 11:13:21.078 INFO: CGI interpreter: E:\portfolio windows\php\php-cgi.exe
+- 11:13:21.078 INFO: CGI pattern: **.php$
+- 11:13:21.078 INFO: Hide files patterns: 
+- 11:13:21.078 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIENNJ~1\AppData\Local\Temp\
+- 11:13:21.078 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 11:13:21.094 INFO: Web server url: http://127.0.0.1:59053/
+- 11:13:21.094 INFO: remote_debugging_port = 51316
+- 11:13:21.094 DEBUG: Command line string for the browser process: "E:\portfolio windows\24seven.exe" --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --remote-debugging-port=51316
+[0226/111321.684:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:13:22.188 DEBUG: App::OnContextInitialized()
+- 11:13:22.188 DEBUG: Window max width/height = 1286/720
+- 11:13:22.188 DEBUG: GetBrowserWindow(): not found, hwnd = 131818
+- 11:13:22.188 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 11:13:22.188 DEBUG: BrowserWindow::CreateBrowserControl()
+- 11:13:22.188 DEBUG: StoreBrowserWindow(): hwnd = 131818
+- 11:13:22.344 DEBUG: ClientHandler::OnAfterCreated()
+- 11:13:22.344 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 11:13:22.406 DEBUG: OnLoadingStateChange: loading=1, url=
+- 11:13:25.000 DEBUG: Command line string for the renderer process: "E:\portfolio windows\24seven.exe" --type=renderer --no-sandbox --primordial-pipe-token=655B4337457CC093E51C4E91F9C5C15E --lang=en-US --lang=en-US --log-file="E:\portfolio windows\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=655B4337457CC093E51C4E91F9C5C15E --renderer-client-id=3 --mojo-platform-channel-handle=1776 /prefetch:1
+- 11:13:25.031 DEBUG: OnBrowserCreated()
+- 11:13:25.032 DEBUG: Command line string for the gpu-process process: "E:\portfolio windows\24seven.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\portfolio windows\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0416 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.14.4264 --gpu-driver-date=8-4-2015 --lang=en-US --log-file="E:\portfolio windows\debug.log" --service-request-channel-token=17E34CA96BE459B1C4AB71DD12A3F644 --mojo-platform-channel-handle=1432 /prefetch:2
+[0226/111326.703:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111331.718:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111333.703:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0226/111336.540:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0226/111336.540:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0226/111336.540:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0226/111336.540:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0226/111336.540:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0226/111336.721:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:13:37.906 INFO: GET 200 /
+- 11:13:37.078 INFO: GET 200 /plugins/magnific-popup/magnific-popup.min.css
+- 11:13:37.078 INFO: GET 200 /css/font-awesome.min.css
+- 11:13:37.078 INFO: GET 200 /css/style.css
+- 11:13:37.094 INFO: GET 200 /plugins/swiper/swiper.min.css
+- 11:13:37.125 INFO: GET 200 /css/bootstrap.min.css
+[0226/111341.734:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:13:42.156 INFO: GET 200 /css/custom.css
+- 11:13:42.203 INFO: GET 200 /css/responsive.css
+- 11:13:45.047 DEBUG: OnContextCreated()
+- 11:13:45.875 INFO: GET 404 /css/colors/theme-1.css
+- 11:13:45.875 INFO: GET 404 /plugins/switcher/switcher.css
+- 11:13:45.922 INFO: GET 200 /plugins/magnific-popup/jquery.magnific-popup.min.js
+- 11:13:45.922 INFO: GET 200 /plugins/swiper/swiper.min.js
+- 11:13:45.922 INFO: GET 200 /js/jquery-3.3.1.min.js
+- 11:13:45.922 INFO: GET 200 /plugins/waypoints/sticky.min.js
+- 11:13:45.922 INFO: GET 200 /plugins/waypoints/jquery.waypoints.min.js
+- 11:13:45.938 INFO: GET 200 /js/bootstrap.bundle.min.js
+- 11:13:46.688 INFO: GET 200 /fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 11:13:46.938 INFO: GET 200 /plugins/parsley/parsley.min.js
+[0226/111346.739:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:13:46.344 INFO: GET 200 /plugins/retinajs/retina.min.js
+- 11:13:46.406 INFO: GET 200 /js/menu.min.js
+- 11:13:46.422 INFO: GET 200 /plugins/isotope/isotope.pkgd.min.js
+- 11:13:46.469 INFO: GET 200 /js/scripts.js
+- 11:13:46.469 INFO: GET 200 /js/custom.js
+- 11:13:47.563 INFO: GET 200 /img/logo.png
+- 11:13:47.563 INFO: GET 200 /img/number-one.png
+- 11:13:47.563 INFO: GET 200 /img/icons/download.svg
+- 11:13:47.563 INFO: GET 200 /img/icons/setup.svg
+- 11:13:47.563 INFO: GET 200 /img/icons/support.svg
+- 11:13:47.656 INFO: GET 200 /img/icons/earth.svg
+- 11:13:47.656 INFO: GET 200 /img/icons/phone.svg
+- 11:13:47.656 INFO: GET 200 /img/icons/tv.svg
+- 11:13:47.656 INFO: GET 200 /img/icons/right-arrow.svg
+- 11:13:47.656 INFO: GET 200 /img/icons/server.svg
+- 11:13:47.672 INFO: GET 200 /img/icons/left-arrow.svg
+- 11:13:47.672 INFO: GET 200 /img/icons/loading.png
+[0226/111349.283:INFO:CONSOLE(18)] "Uncaught TypeError: document.getElementById(...).innerHTML is not a function", source: https://googlereviews.cws.net/google-reviews.js (18)
+[0226/111351.741:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:13:54.610 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59053/
+- 11:13:54.641 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/111354.128:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:59053/js/jquery-3.3.1.min.js (2)
+[0226/111354.164:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:59053/js/jquery-3.3.1.min.js (2)
+[0226/111356.745:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:13:59.156 INFO: GET 404 /img/earth.jpg
+[0226/111401.750:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:05.938 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:59053/
+[0226/111406.752:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:09.875 INFO: GET 404 /img/rocket.jpg
+- 11:14:09.000 INFO: GET 200 /about
+- 11:14:09.281 DEBUG: OnContextCreated()
+[0226/111411.756:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:14.094 INFO: GET 404 /css/colors/theme-1.css
+- 11:14:14.094 INFO: GET 404 /plugins/switcher/switcher.css
+[0226/111416.762:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:19.016 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59053/about
+- 11:14:19.031 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/111419.504:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:59053/js/jquery-3.3.1.min.js (2)
+[0226/111419.508:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:59053/js/jquery-3.3.1.min.js (2)
+[0226/111421.778:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:24.828 INFO: GET 404 /img/hills.jpg
+- 11:14:24.203 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:59053/about
+- 11:14:26.312 DEBUG: OnContextCreated()
+- 11:14:26.188 INFO: GET 200 /contact
+[0226/111426.779:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:28.406 INFO: GET 500 /plugins/switcher/switcher.css
+- 11:14:28.406 INFO: GET 500 /css/colors/theme-1.css
+- 11:14:28.516 INFO: GET 200 /img/24seven-Developers-cover.jpg
+[0226/111431.786:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:33.375 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59053/contact
+- 11:14:33.406 INFO: GET 404 /plugins/switcher/switcher.js
+[0226/111433.870:INFO:CONSOLE(2)] "jQuery.Deferred exception: ColorSwitcher is not defined", source: http://127.0.0.1:59053/js/jquery-3.3.1.min.js (2)
+[0226/111433.878:INFO:CONSOLE(2)] "Uncaught ReferenceError: ColorSwitcher is not defined", source: http://127.0.0.1:59053/js/jquery-3.3.1.min.js (2)
+[0226/111436.789:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:14:38.250 INFO: GET 404 /img/hills.jpg
+[0226/111441.794:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111446.797:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111451.800:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111456.803:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111501.806:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111506.814:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:15:08.891 DEBUG: ClientHandler::OnBeforePopup()
+- 11:15:08.891 INFO: Setting default size for a popup window 800/600
+- 11:15:08.891 DEBUG: Window max width/height = 1286/720
+- 11:15:08.093 DEBUG: OnBrowserCreated()
+- 11:15:08.953 DEBUG: ClientHandler::OnAfterCreated()
+- 11:15:08.953 DEBUG: GetBrowserWindow(): not found, hwnd = 721718
+- 11:15:08.047 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 11:15:08.047 DEBUG: StoreBrowserWindow(): hwnd = 721718
+- 11:15:08.047 DEBUG: Centering popup window relative to its parent
+- 11:15:08.047 DEBUG: OnLoadingStateChange: loading=1, url=
+[0226/111511.829:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:15:13.703 INFO: GET 200 /dist/css/skins/_all-skins.min.css
+- 11:15:13.719 INFO: GET 200 /bower_components/morris.js/morris.css
+- 11:15:13.735 INFO: GET 200 /bower_components/font-awesome/css/font-awesome.min.css
+- 11:15:13.735 INFO: GET 200 /dist/css/AdminLTE.min.css
+- 11:15:13.750 INFO: GET 200 /bower_components/bootstrap/dist/css/bootstrap.min.css
+- 11:15:13.750 INFO: GET 200 /bower_components/Ionicons/css/ionicons.min.css
+- 11:15:13.844 INFO: GET 200 /admin
+- 11:15:13.844 INFO: GET 200 /bower_components/jvectormap/jquery-jvectormap.css
+- 11:15:13.860 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+- 11:15:13.860 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.css
+- 11:15:13.875 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+- 11:15:13.281 DEBUG: OnContextCreated()
+- 11:15:13.110 INFO: GET 200 /plugins/iCheck/square/blue.css
+- 11:15:13.125 INFO: GET 200 /css/toastr.min.css
+- 11:15:13.313 INFO: GET 200 /bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css
+- 11:15:13.344 INFO: GET 200 /bower_components/jquery/dist/jquery.min.js
+- 11:15:13.531 INFO: GET 200 /plugins/iCheck/icheck.min.js
+- 11:15:14.578 INFO: GET 200 /bower_components/morris.js/morris.min.js
+- 11:15:14.578 INFO: GET 200 /bower_components/raphael/raphael.min.js
+- 11:15:14.578 INFO: GET 200 /bower_components/bootstrap/dist/js/bootstrap.min.js
+- 11:15:14.860 INFO: GET 200 /bower_components/jquery-ui/jquery-ui.min.js
+- 11:15:14.922 INFO: GET 200 /bower_components/Ionicons/fonts/ionicons28b5.ttf?v=2.0.0
+- 11:15:14.985 INFO: GET 200 /bower_components/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+- 11:15:14.016 INFO: GET 200 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+- 11:15:14.016 INFO: GET 200 /uploads/users/avatar.png
+- 11:15:14.328 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+- 11:15:15.610 INFO: GET 200 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+- 11:15:15.641 INFO: GET 200 /bower_components/jquery-knob/dist/jquery.knob.min.js
+- 11:15:15.735 INFO: GET 200 /bower_components/moment/min/moment.min.js
+- 11:15:15.735 INFO: GET 200 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+- 11:15:15.750 INFO: GET 200 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+- 11:15:15.985 INFO: GET 200 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+- 11:15:15.016 INFO: GET 200 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+- 11:15:15.031 INFO: GET 200 /bower_components/fastclick/lib/fastclick.js
+- 11:15:15.141 INFO: GET 200 /bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js
+- 11:15:15.156 INFO: GET 200 /dist/js/adminlte.min.js
+- 11:15:15.235 INFO: GET 200 /bower_components/datatables.net/js/jquery.dataTables.min.js
+- 11:15:15.266 INFO: GET 200 /dist/js/pages/dashboard.js
+- 11:15:15.328 INFO: GET 200 /js/toastr.min.js
+- 11:15:16.938 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59053/admin
+[0226/111516.383:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).iCheck is not a function", source: http://127.0.0.1:59053/bower_components/jquery/dist/jquery.min.js (2)
+[0226/111516.495:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).iCheck is not a function", source: http://127.0.0.1:59053/bower_components/jquery/dist/jquery.min.js (2)
+[0226/111516.495:INFO:CONSOLE(2)] "Uncaught Error: Graph container element not found", source: http://127.0.0.1:59053/bower_components/jquery/dist/jquery.min.js (2)
+[0226/111516.837:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111521.848:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:15:26.906 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:59053/admin
+[0226/111526.857:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111531.546:WARNING:child_thread_impl.cc(695)] Browser failed to allocate shared memory
+[0226/111531.861:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+- 11:15:32.625 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59053/admin
+- 11:15:34.281 INFO: GET 500 /admin/users
+[0226/111536.864:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111541.874:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111546.876:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0226/111551.887:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
